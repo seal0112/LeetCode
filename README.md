@@ -1,8 +1,8 @@
 # Keep thinking, keep alive
-Until 2020-05-12 17:36:06, I have solved **1** / **1444** problems. 
+Until 2020-05-13 18:49:48, I have solved **2** / **1444** problems. 
 
 Completion statistic: 
-1. JavaScript: 1 
+1. JavaScript: 2 
 2. Python: 0
 
 Note: :lock: means you need to buy a book from LeetCode
@@ -412,7 +412,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |399|[Evaluate Division](https://leetcode.com/problemset/all/evaluate-division/description/) |Medium|To Do|To Do|
 |400|[Nth Digit](https://leetcode.com/problemset/all/nth-digit/description/) |Medium|To Do|To Do|
 |401|[Binary Watch](https://leetcode.com/problemset/all/binary-watch/description/) |Easy|To Do|To Do|
-|402|[Remove K Digits](https://leetcode.com/problemset/all/remove-k-digits/description/) |Medium|To Do|To Do|
+|402|[Remove K Digits](https://leetcode.com/problemset/all/remove-k-digits/description/) |Medium|[JavaScript](https://github.com/seal0112/leetcode/tree/master/leetcode-algorithms/402.%20Remove%20K%20Digits/RemoveKDigits.js)|To Do|
 |403|[Frog Jump](https://leetcode.com/problemset/all/frog-jump/description/) |Hard|To Do|To Do|
 |404|[Sum of Left Leaves](https://leetcode.com/problemset/all/sum-of-left-leaves/description/) |Easy|To Do|To Do|
 |405|[Convert a Number to Hexadecimal](https://leetcode.com/problemset/all/convert-a-number-to-hexadecimal/description/) |Easy|To Do|To Do|
