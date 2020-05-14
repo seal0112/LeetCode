@@ -1,8 +1,8 @@
 # Keep thinking, keep alive
-Until 2020-05-13 18:49:48, I have solved **2** / **1444** problems. 
+Until 2020-05-15 00:21:39, I have solved **3** / **1444** problems. 
 
 Completion statistic: 
-1. JavaScript: 2 
+1. JavaScript: 3 
 2. Python: 0
 
 Note: :lock: means you need to buy a book from LeetCode
@@ -218,7 +218,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |205|[Isomorphic Strings](https://leetcode.com/problemset/all/isomorphic-strings/description/) |Easy|To Do|To Do|
 |206|[Reverse Linked List](https://leetcode.com/problemset/all/reverse-linked-list/description/) |Easy|To Do|To Do|
 |207|[Course Schedule](https://leetcode.com/problemset/all/course-schedule/description/) |Medium|To Do|To Do|
-|208|[Implement Trie (Prefix Tree)](https://leetcode.com/problemset/all/implement-trie-prefix-tree/description/) |Medium|To Do|To Do|
+|208|[Implement Trie (Prefix Tree)](https://leetcode.com/problemset/all/implement-trie-prefix-tree/description/) |Medium|[JavaScript](https://github.com/seal0112/leetcode/tree/master/leetcode-algorithms/208.%20Implement%20Trie%20(Prefix%20Tree)/ImplementTrie(PrefixTree).js)|To Do|
 |209|[Minimum Size Subarray Sum](https://leetcode.com/problemset/all/minimum-size-subarray-sum/description/) |Medium|To Do|To Do|
 |210|[Course Schedule II](https://leetcode.com/problemset/all/course-schedule-ii/description/) |Medium|To Do|To Do|
 |211|[Add and Search Word - Data structure design](https://leetcode.com/problemset/all/add-and-search-word-data-structure-design/description/) |Medium|To Do|To Do|
