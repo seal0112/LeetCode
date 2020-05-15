@@ -1,8 +1,8 @@
 # Keep thinking, keep alive
-Until 2020-05-15 00:21:39, I have solved **3** / **1444** problems. 
+Until 2020-05-15 18:28:01, I have solved **4** / **1444** problems. 
 
 Completion statistic: 
-1. JavaScript: 3 
+1. JavaScript: 4 
 2. Python: 0
 
 Note: :lock: means you need to buy a book from LeetCode
@@ -924,7 +924,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |915|[Partition Array into Disjoint Intervals](https://leetcode.com/problemset/all/partition-array-into-disjoint-intervals/description/) |Medium|To Do|To Do|
 |916|[Word Subsets](https://leetcode.com/problemset/all/word-subsets/description/) |Medium|To Do|To Do|
 |917|[Reverse Only Letters](https://leetcode.com/problemset/all/reverse-only-letters/description/) |Easy|To Do|To Do|
-|918|[Maximum Sum Circular Subarray](https://leetcode.com/problemset/all/maximum-sum-circular-subarray/description/) |Medium|To Do|To Do|
+|918|[Maximum Sum Circular Subarray](https://leetcode.com/problemset/all/maximum-sum-circular-subarray/description/) |Medium|[JavaScript](https://github.com/seal0112/leetcode/tree/master/leetcode-algorithms/918.%20Maximum%20Sum%20Circular%20Subarray/MaximumSumCircularSubarray.js)|To Do|
 |919|[Complete Binary Tree Inserter](https://leetcode.com/problemset/all/complete-binary-tree-inserter/description/) |Medium|To Do|To Do|
 |920|[Number of Music Playlists](https://leetcode.com/problemset/all/number-of-music-playlists/description/) |Hard|To Do|To Do|
 |921|[Minimum Add to Make Parentheses Valid](https://leetcode.com/problemset/all/minimum-add-to-make-parentheses-valid/description/) |Medium|To Do|To Do|
