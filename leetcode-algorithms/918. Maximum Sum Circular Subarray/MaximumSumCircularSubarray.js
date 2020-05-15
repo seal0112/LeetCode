@@ -11,7 +11,7 @@
  * 因此我們使用Maximum Subarray計算情況1的值(max), 同時計算出array的加總(sum),
  * 再找出array裡加總負值最大的一段(min),
  * 另外, 避免整個array裡面的值都是負的,
- * 所以在最後也比較 sum-min===0 來確認min的組成不會剛好是整個array
+ * 所以在最後也比較max是不是小於0, 如果是就回傳 max
  * 最後由 max 跟 (sum-min) 選出較大者回傳
  */
 var maxSubarraySumCircular = function(A) {
@@ -42,7 +42,7 @@ var maxSubarraySumCircular = function(A) {
             count=0;
         }
     }
-    if(sum-min===0){
+    if(max<0){
         return max
     }else{
         return max>(sum-min)?max:(sum-min)
