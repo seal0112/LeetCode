@@ -1,8 +1,8 @@
 # Keep thinking, keep alive
-Until 2020-05-15 18:32:30, I have solved **4** / **1444** problems. 
+Until 2020-05-21 22:14:05, I have solved **5** / **1454** problems. 
 
 Completion statistic: 
-1. JavaScript: 4 
+1. JavaScript: 5 
 2. Python: 0
 
 Note: :lock: means you need to buy a book from LeetCode
@@ -137,7 +137,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |124|[Binary Tree Maximum Path Sum](https://leetcode.com/problemset/all/binary-tree-maximum-path-sum/description/) |Hard|To Do|To Do|
 |125|[Valid Palindrome](https://leetcode.com/problemset/all/valid-palindrome/description/) |Easy|To Do|To Do|
 |126|[Word Ladder II](https://leetcode.com/problemset/all/word-ladder-ii/description/) |Hard|To Do|To Do|
-|127|[Word Ladder](https://leetcode.com/problemset/all/word-ladder/description/) |Medium|To Do|To Do|
+|127|[Word Ladder](https://leetcode.com/problemset/all/word-ladder/description/) |Medium|[JavaScript](https://github.com/seal0112/leetcode/tree/master/leetcode-algorithms/1277.%20Count%20Square%20Submatrices%20with%20All%20Ones/CountSquareSubmatricesWithAllOnes.js)|To Do|
 |128|[Longest Consecutive Sequence](https://leetcode.com/problemset/all/longest-consecutive-sequence/description/) |Hard|To Do|To Do|
 |129|[Sum Root to Leaf Numbers](https://leetcode.com/problemset/all/sum-root-to-leaf-numbers/description/) |Medium|To Do|To Do|
 |130|[Surrounded Regions](https://leetcode.com/problemset/all/surrounded-regions/description/) |Medium|To Do|To Do|
@@ -1443,6 +1443,10 @@ Note: :lock: means you need to buy a book from LeetCode
 |1423|[Maximum Points You Can Obtain from Cards](https://leetcode.com/problemset/all/maximum-points-you-can-obtain-from-cards/description/) |Medium|To Do|To Do|
 |1424|[Diagonal Traverse II](https://leetcode.com/problemset/all/diagonal-traverse-ii/description/) |Medium|To Do|To Do|
 |1407|[Top Travellers](https://leetcode.com/problemset/all/top-travellers/description/) :lock:|Easy|To Do|To Do|
+|1446|[Consecutive Characters](https://leetcode.com/problemset/all/consecutive-characters/description/) |Easy|To Do|To Do|
+|1447|[Simplified Fractions](https://leetcode.com/problemset/all/simplified-fractions/description/) |Medium|To Do|To Do|
+|1448|[Count Good Nodes in Binary Tree](https://leetcode.com/problemset/all/count-good-nodes-in-binary-tree/description/) |Medium|To Do|To Do|
+|1449|[Form Largest Integer With Digits That Add up to Target](https://leetcode.com/problemset/all/form-largest-integer-with-digits-that-add-up-to-target/description/) |Hard|To Do|To Do|
 |1412|[Find the Quiet Students in All Exams](https://leetcode.com/problemset/all/find-the-quiet-students-in-all-exams/description/) :lock:|Hard|To Do|To Do|
 |1436|[Destination City](https://leetcode.com/problemset/all/destination-city/description/) |Easy|To Do|To Do|
 |1437|[Check If All 1's Are at Least Length K Places Away](https://leetcode.com/problemset/all/check-if-all-1s-are-at-least-length-k-places-away/description/) |Medium|To Do|To Do|
@@ -1453,5 +1457,11 @@ Note: :lock: means you need to buy a book from LeetCode
 |1442|[Count Triplets That Can Form Two Arrays of Equal XOR](https://leetcode.com/problemset/all/count-triplets-that-can-form-two-arrays-of-equal-xor/description/) |Medium|To Do|To Do|
 |1443|[Minimum Time to Collect All Apples in a Tree](https://leetcode.com/problemset/all/minimum-time-to-collect-all-apples-in-a-tree/description/) |Medium|To Do|To Do|
 |1444|[Number of Ways of Cutting a Pizza](https://leetcode.com/problemset/all/number-of-ways-of-cutting-a-pizza/description/) |Hard|To Do|To Do|
+|1450|[Number of Students Doing Homework at a Given Time](https://leetcode.com/problemset/all/number-of-students-doing-homework-at-a-given-time/description/) |Easy|To Do|To Do|
+|1451|[Rearrange Words in a Sentence](https://leetcode.com/problemset/all/rearrange-words-in-a-sentence/description/) |Medium|To Do|To Do|
+|1452|[People Whose List of Favorite Companies Is Not a Subset of Another List](https://leetcode.com/problemset/all/people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list/description/) |Medium|To Do|To Do|
+|1453|[Maximum Number of Darts Inside of a Circular Dartboard](https://leetcode.com/problemset/all/maximum-number-of-darts-inside-of-a-circular-dartboard/description/) |Hard|To Do|To Do|
 |1435|[Create a Session Bar Chart](https://leetcode.com/problemset/all/create-a-session-bar-chart/description/) :lock:|Easy|To Do|To Do|
 |1440|[Evaluate Boolean Expression](https://leetcode.com/problemset/all/evaluate-boolean-expression/description/) :lock:|Medium|To Do|To Do|
+|1445|[Apples & Oranges](https://leetcode.com/problemset/all/apples-oranges/description/) :lock:|Medium|To Do|To Do|
+|1454|[Active Users](https://leetcode.com/problemset/all/active-users/description/) :lock:|Medium|To Do|To Do|
