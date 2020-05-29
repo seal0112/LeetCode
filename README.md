@@ -1,8 +1,8 @@
 # Keep thinking, keep alive
-Until 2020-05-29 11:54:39, I have solved **6** / **1458** problems. 
+Until 2020-05-29 12:10:21, I have solved **7** / **1458** problems. 
 
 Completion statistic: 
-1. JavaScript: 6 
+1. JavaScript: 7 
 2. Python: 0
 
 Note: :lock: means you need to buy a book from LeetCode
@@ -110,7 +110,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |097|[Interleaving String](https://leetcode.com/problemset/all/interleaving-string/description/) |Hard|To Do|To Do|
 |098|[Validate Binary Search Tree](https://leetcode.com/problemset/all/validate-binary-search-tree/description/) |Medium|To Do|To Do|
 |099|[Recover Binary Search Tree](https://leetcode.com/problemset/all/recover-binary-search-tree/description/) |Hard|To Do|To Do|
-|100|[Same Tree](https://leetcode.com/problemset/all/same-tree/description/) |Easy|To Do|To Do|
+|100|[Same Tree](https://leetcode.com/problemset/all/same-tree/description/) |Easy|[JavaScript](https://github.com/seal0112/leetcode/tree/master/leetcode-algorithms/1008.%20Construct%20Binary%20Search%20Tree%20from%20Preorder%20Traversal/ConstructBinarySearchTreefromPreorderTraversal.js)|To Do|
 |101|[Symmetric Tree](https://leetcode.com/problemset/all/symmetric-tree/description/) |Easy|To Do|To Do|
 |102|[Binary Tree Level Order Traversal](https://leetcode.com/problemset/all/binary-tree-level-order-traversal/description/) |Medium|To Do|To Do|
 |103|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problemset/all/binary-tree-zigzag-level-order-traversal/description/) |Medium|[JavaScript](https://github.com/seal0112/leetcode/tree/master/leetcode-algorithms/1035.%20Uncrossed%20Lines/UncrossedLines.js)|To Do|
