@@ -144,7 +144,7 @@ class TableInform:
 
         for i in range(len(self.questions) - 1, -1, -1):
             question = self.questions[i]
-            name = question['stat']['question__title']
+            name = question['stat']['question__title'].replace('/', ' ')
             url = question['stat']['question__title_slug']
             id_ = str(question['stat']['frontend_question_id'])
             if int(id_) < 10:

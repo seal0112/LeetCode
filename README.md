@@ -1,5 +1,5 @@
 # Keep thinking, keep alive
-Until 2020-05-29 12:10:21, I have solved **7** / **1458** problems. 
+Until 2020-05-29 12:20:32, I have solved **7** / **1458** problems. 
 
 Completion statistic: 
 1. JavaScript: 7 
@@ -1425,7 +1425,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |1403|[Minimum Subsequence in Non-Increasing Order](https://leetcode.com/problemset/all/minimum-subsequence-in-non-increasing-order/description/) |Easy|To Do|To Do|
 |1404|[Number of Steps to Reduce a Number in Binary Representation to One](https://leetcode.com/problemset/all/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/description/) |Medium|To Do|To Do|
 |1406|[Stone Game III](https://leetcode.com/problemset/all/stone-game-iii/description/) |Hard|To Do|To Do|
-|1393|[Capital Gain/Loss](https://leetcode.com/problemset/all/capital-gainloss/description/) :lock:|Medium|To Do|To Do|
+|1393|[Capital Gain Loss](https://leetcode.com/problemset/all/capital-gainloss/description/) :lock:|Medium|To Do|To Do|
 |1408|[String Matching in an Array](https://leetcode.com/problemset/all/string-matching-in-an-array/description/) |Easy|To Do|To Do|
 |1409|[Queries on a Permutation With Key](https://leetcode.com/problemset/all/queries-on-a-permutation-with-key/description/) |Medium|To Do|To Do|
 |1410|[HTML Entity Parser](https://leetcode.com/problemset/all/html-entity-parser/description/) |Medium|To Do|To Do|
