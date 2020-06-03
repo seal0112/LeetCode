@@ -1,8 +1,8 @@
 # Keep thinking, keep alive
-Until 2020-05-29 12:20:32, I have solved **7** / **1458** problems. 
+Until 2020-06-03 17:52:06, I have solved **8** / **1467** problems. 
 
 Completion statistic: 
-1. JavaScript: 7 
+1. JavaScript: 8 
 2. Python: 0
 
 Note: :lock: means you need to buy a book from LeetCode
@@ -104,7 +104,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |091|[Decode Ways](https://leetcode.com/problemset/all/decode-ways/description/) |Medium|To Do|To Do|
 |092|[Reverse Linked List II](https://leetcode.com/problemset/all/reverse-linked-list-ii/description/) |Medium|To Do|To Do|
 |093|[Restore IP Addresses](https://leetcode.com/problemset/all/restore-ip-addresses/description/) |Medium|To Do|To Do|
-|094|[Binary Tree Inorder Traversal](https://leetcode.com/problemset/all/binary-tree-inorder-traversal/description/) |Hard|To Do|To Do|
+|094|[Binary Tree Inorder Traversal](https://leetcode.com/problemset/all/binary-tree-inorder-traversal/description/) |Medium|To Do|To Do|
 |095|[Unique Binary Search Trees II](https://leetcode.com/problemset/all/unique-binary-search-trees-ii/description/) |Medium|To Do|To Do|
 |096|[Unique Binary Search Trees](https://leetcode.com/problemset/all/unique-binary-search-trees/description/) |Medium|To Do|To Do|
 |097|[Interleaving String](https://leetcode.com/problemset/all/interleaving-string/description/) |Hard|To Do|To Do|
@@ -112,7 +112,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |099|[Recover Binary Search Tree](https://leetcode.com/problemset/all/recover-binary-search-tree/description/) |Hard|To Do|To Do|
 |100|[Same Tree](https://leetcode.com/problemset/all/same-tree/description/) |Easy|[JavaScript](https://github.com/seal0112/leetcode/tree/master/leetcode-algorithms/1008.%20Construct%20Binary%20Search%20Tree%20from%20Preorder%20Traversal/ConstructBinarySearchTreefromPreorderTraversal.js)|To Do|
 |101|[Symmetric Tree](https://leetcode.com/problemset/all/symmetric-tree/description/) |Easy|To Do|To Do|
-|102|[Binary Tree Level Order Traversal](https://leetcode.com/problemset/all/binary-tree-level-order-traversal/description/) |Medium|To Do|To Do|
+|102|[Binary Tree Level Order Traversal](https://leetcode.com/problemset/all/binary-tree-level-order-traversal/description/) |Medium|[JavaScript](https://github.com/seal0112/leetcode/tree/master/leetcode-algorithms/1029.%20Two%20City%20Scheduling/TwoCityScheduling.js)|To Do|
 |103|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problemset/all/binary-tree-zigzag-level-order-traversal/description/) |Medium|[JavaScript](https://github.com/seal0112/leetcode/tree/master/leetcode-algorithms/1035.%20Uncrossed%20Lines/UncrossedLines.js)|To Do|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problemset/all/maximum-depth-of-binary-tree/description/) |Easy|To Do|To Do|
 |105|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problemset/all/construct-binary-tree-from-preorder-and-inorder-traversal/description/) |Medium|To Do|To Do|
@@ -1457,6 +1457,10 @@ Note: :lock: means you need to buy a book from LeetCode
 |1442|[Count Triplets That Can Form Two Arrays of Equal XOR](https://leetcode.com/problemset/all/count-triplets-that-can-form-two-arrays-of-equal-xor/description/) |Medium|To Do|To Do|
 |1443|[Minimum Time to Collect All Apples in a Tree](https://leetcode.com/problemset/all/minimum-time-to-collect-all-apples-in-a-tree/description/) |Medium|To Do|To Do|
 |1444|[Number of Ways of Cutting a Pizza](https://leetcode.com/problemset/all/number-of-ways-of-cutting-a-pizza/description/) |Hard|To Do|To Do|
+|1460|[Make Two Arrays Equal by Reversing Sub-arrays](https://leetcode.com/problemset/all/make-two-arrays-equal-by-reversing-sub-arrays/description/) |Easy|To Do|To Do|
+|1461|[Check If a String Contains All Binary Codes of Size K](https://leetcode.com/problemset/all/check-if-a-string-contains-all-binary-codes-of-size-k/description/) |Medium|To Do|To Do|
+|1462|[Course Schedule IV](https://leetcode.com/problemset/all/course-schedule-iv/description/) |Medium|To Do|To Do|
+|1463|[Cherry Pickup II](https://leetcode.com/problemset/all/cherry-pickup-ii/description/) |Hard|To Do|To Do|
 |1450|[Number of Students Doing Homework at a Given Time](https://leetcode.com/problemset/all/number-of-students-doing-homework-at-a-given-time/description/) |Easy|To Do|To Do|
 |1451|[Rearrange Words in a Sentence](https://leetcode.com/problemset/all/rearrange-words-in-a-sentence/description/) |Medium|To Do|To Do|
 |1452|[People Whose List of Favorite Companies Is Not a Subset of Another List](https://leetcode.com/problemset/all/people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list/description/) |Medium|To Do|To Do|
@@ -1467,5 +1471,10 @@ Note: :lock: means you need to buy a book from LeetCode
 |1456|[Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problemset/all/maximum-number-of-vowels-in-a-substring-of-given-length/description/) |Medium|To Do|To Do|
 |1457|[Pseudo-Palindromic Paths in a Binary Tree](https://leetcode.com/problemset/all/pseudo-palindromic-paths-in-a-binary-tree/description/) |Medium|To Do|To Do|
 |1458|[Max Dot Product of Two Subsequences](https://leetcode.com/problemset/all/max-dot-product-of-two-subsequences/description/) |Hard|To Do|To Do|
+|1464|[Maximum Product of Two Elements in an Array](https://leetcode.com/problemset/all/maximum-product-of-two-elements-in-an-array/description/) |Easy|To Do|To Do|
+|1465|[Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](https://leetcode.com/problemset/all/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/description/) |Medium|To Do|To Do|
+|1466|[Reorder Routes to Make All Paths Lead to the City Zero](https://leetcode.com/problemset/all/reorder-routes-to-make-all-paths-lead-to-the-city-zero/description/) |Medium|To Do|To Do|
+|1467|[Probability of a Two Boxes Having The Same Number of Distinct Balls](https://leetcode.com/problemset/all/probability-of-a-two-boxes-having-the-same-number-of-distinct-balls/description/) |Hard|To Do|To Do|
 |1445|[Apples & Oranges](https://leetcode.com/problemset/all/apples-oranges/description/) :lock:|Medium|To Do|To Do|
 |1454|[Active Users](https://leetcode.com/problemset/all/active-users/description/) :lock:|Medium|To Do|To Do|
+|1459|[Rectangles Area](https://leetcode.com/problemset/all/rectangles-area/description/) :lock:|Medium|To Do|To Do|
