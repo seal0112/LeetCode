@@ -1,8 +1,8 @@
 # Keep thinking, keep alive
-Until 2020-06-03 17:56:42, I have solved **9** / **1467** problems. 
+Until 2020-06-03 17:59:12, I have solved **10** / **1467** problems. 
 
 Completion statistic: 
-1. JavaScript: 9 
+1. JavaScript: 10 
 2. Python: 0
 
 Note: :lock: means you need to buy a book from LeetCode
@@ -236,7 +236,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |223|[Rectangle Area](https://leetcode.com/problemset/all/rectangle-area/description/) |Medium|To Do|To Do|
 |224|[Basic Calculator](https://leetcode.com/problemset/all/basic-calculator/description/) |Hard|To Do|To Do|
 |225|[Implement Stack using Queues](https://leetcode.com/problemset/all/implement-stack-using-queues/description/) |Easy|To Do|To Do|
-|226|[Invert Binary Tree](https://leetcode.com/problemset/all/invert-binary-tree/description/) |Easy|To Do|To Do|
+|226|[Invert Binary Tree](https://leetcode.com/problemset/all/invert-binary-tree/description/) |Easy|[JavaScript](https://github.com/seal0112/leetcode/tree/master/leetcode-algorithms/226.%20Invert%20Binary%20Tree/InvertBinaryTree.js)|To Do|
 |227|[Basic Calculator II](https://leetcode.com/problemset/all/basic-calculator-ii/description/) |Medium|To Do|To Do|
 |228|[Summary Ranges](https://leetcode.com/problemset/all/summary-ranges/description/) |Medium|To Do|To Do|
 |229|[Majority Element II](https://leetcode.com/problemset/all/majority-element-ii/description/) |Medium|To Do|To Do|
