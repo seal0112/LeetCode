@@ -1,5 +1,5 @@
 # Keep thinking, keep alive
-Until 2020-06-03 17:59:12, I have solved **10** / **1467** problems. 
+Until 2020-06-04 18:18:33, I have solved **11** / **1469** problems. 
 
 Completion statistic: 
 1. JavaScript: 10 
@@ -1478,3 +1478,5 @@ Note: :lock: means you need to buy a book from LeetCode
 |1445|[Apples & Oranges](https://leetcode.com/problemset/all/apples-oranges/description/) :lock:|Medium|To Do|To Do|
 |1454|[Active Users](https://leetcode.com/problemset/all/active-users/description/) :lock:|Medium|To Do|To Do|
 |1459|[Rectangles Area](https://leetcode.com/problemset/all/rectangles-area/description/) :lock:|Medium|To Do|To Do|
+|1468|[Calculate Salaries](https://leetcode.com/problemset/all/calculate-salaries/description/) :lock:|Medium|To Do|To Do|
+|1469|[Find All the Lonely Nodes](https://leetcode.com/problemset/all/find-all-the-lonely-nodes/description/) :lock:|Easy|To Do|To Do|
