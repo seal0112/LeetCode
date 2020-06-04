@@ -1,8 +1,8 @@
 # Keep thinking, keep alive
-Until 2020-06-04 18:18:33, I have solved **11** / **1469** problems. 
+Until 2020-06-04 18:44:10, I have solved **12** / **1469** problems. 
 
 Completion statistic: 
-1. JavaScript: 10 
+1. JavaScript: 11 
 2. Python: 0
 
 Note: :lock: means you need to buy a book from LeetCode
@@ -522,7 +522,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |522|[Longest Uncommon Subsequence II](https://leetcode.com/problemset/all/longest-uncommon-subsequence-ii/description/) |Medium|To Do|To Do|
 |523|[Continuous Subarray Sum](https://leetcode.com/problemset/all/continuous-subarray-sum/description/) |Medium|To Do|To Do|
 |524|[Longest Word in Dictionary through Deleting](https://leetcode.com/problemset/all/longest-word-in-dictionary-through-deleting/description/) |Medium|To Do|To Do|
-|525|[Contiguous Array](https://leetcode.com/problemset/all/contiguous-array/description/) |Medium|To Do|To Do|
+|525|[Contiguous Array](https://leetcode.com/problemset/all/contiguous-array/description/) |Medium|[JavaScript](https://github.com/seal0112/leetcode/tree/master/leetcode-algorithms/525.%20Contiguous%20Array/ContiguousArray.js)|To Do|
 |526|[Beautiful Arrangement](https://leetcode.com/problemset/all/beautiful-arrangement/description/) |Medium|To Do|To Do|
 |527|[Word Abbreviation](https://leetcode.com/problemset/all/word-abbreviation/description/) :lock:|Hard|To Do|To Do|
 |529|[Minesweeper](https://leetcode.com/problemset/all/minesweeper/description/) |Medium|To Do|To Do|
