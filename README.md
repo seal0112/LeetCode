@@ -1,8 +1,8 @@
 # Keep thinking, keep alive
-Until 2020-06-05 14:21:30, I have solved **13** / **1469** problems. 
+Until 2020-06-05 15:32:44, I have solved **14** / **1469** problems. 
 
 Completion statistic: 
-1. JavaScript: 12 
+1. JavaScript: 13 
 2. Python: 0
 
 Note: :lock: means you need to buy a book from LeetCode
@@ -72,7 +72,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |059|[Spiral Matrix II](https://leetcode.com/problemset/all/spiral-matrix-ii/description/) |Medium|To Do|To Do|
 |060|[Permutation Sequence](https://leetcode.com/problemset/all/permutation-sequence/description/) |Medium|To Do|To Do|
 |061|[Rotate List](https://leetcode.com/problemset/all/rotate-list/description/) |Medium|[JavaScript](https://github.com/seal0112/leetcode/tree/master/leetcode-algorithms/061.%20Rotate%20List/RotateList.js)|To Do|
-|062|[Unique Paths](https://leetcode.com/problemset/all/unique-paths/description/) |Medium|To Do|To Do|
+|062|[Unique Paths](https://leetcode.com/problemset/all/unique-paths/description/) |Medium|[JavaScript](https://github.com/seal0112/leetcode/tree/master/leetcode-algorithms/062.%20Unique%20Paths/Unique Paths.js)|To Do|
 |063|[Unique Paths II](https://leetcode.com/problemset/all/unique-paths-ii/description/) |Medium|To Do|To Do|
 |064|[Minimum Path Sum](https://leetcode.com/problemset/all/minimum-path-sum/description/) |Medium|To Do|To Do|
 |065|[Valid Number](https://leetcode.com/problemset/all/valid-number/description/) |Hard|To Do|To Do|
