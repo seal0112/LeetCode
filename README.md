@@ -1,8 +1,8 @@
 # Keep thinking, keep alive
-Until 2020-06-05 16:57:58, I have solved **15** / **1469** problems. 
+Until 2020-06-05 19:10:25, I have solved **16** / **1469** problems. 
 
 Completion statistic: 
-1. JavaScript: 14 
+1. JavaScript: 15 
 2. Python: 0
 
 Note: :lock: means you need to buy a book from LeetCode
@@ -882,7 +882,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |877|[Stone Game](https://leetcode.com/problemset/all/stone-game/description/) |Medium|To Do|To Do|
 |878|[Nth Magical Number](https://leetcode.com/problemset/all/nth-magical-number/description/) |Hard|To Do|To Do|
 |879|[Profitable Schemes](https://leetcode.com/problemset/all/profitable-schemes/description/) |Hard|To Do|To Do|
-|528|[Random Pick with Weight](https://leetcode.com/problemset/all/random-pick-with-weight/description/) |Medium|To Do|To Do|
+|528|[Random Pick with Weight](https://leetcode.com/problemset/all/random-pick-with-weight/description/) |Medium|[JavaScript](https://github.com/seal0112/leetcode/tree/master/leetcode-algorithms/528.%20Random%20Pick%20with%20Weight/RandomPickWithWeight.js)|To Do|
 |519|[Random Flip Matrix](https://leetcode.com/problemset/all/random-flip-matrix/description/) |Medium|To Do|To Do|
 |497|[Random Point in Non-overlapping Rectangles](https://leetcode.com/problemset/all/random-point-in-non-overlapping-rectangles/description/) |Medium|To Do|To Do|
 |478|[Generate Random Point in a Circle](https://leetcode.com/problemset/all/generate-random-point-in-a-circle/description/) |Medium|To Do|To Do|
