@@ -1,8 +1,8 @@
 # Keep thinking, keep alive
-Until 2020-06-05 19:10:25, I have solved **16** / **1469** problems. 
+Until 2020-06-06 17:36:51, I have solved **17** / **1469** problems. 
 
 Completion statistic: 
-1. JavaScript: 15 
+1. JavaScript: 16 
 2. Python: 0
 
 Note: :lock: means you need to buy a book from LeetCode
@@ -416,7 +416,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |403|[Frog Jump](https://leetcode.com/problemset/all/frog-jump/description/) |Hard|To Do|To Do|
 |404|[Sum of Left Leaves](https://leetcode.com/problemset/all/sum-of-left-leaves/description/) |Easy|To Do|To Do|
 |405|[Convert a Number to Hexadecimal](https://leetcode.com/problemset/all/convert-a-number-to-hexadecimal/description/) |Easy|To Do|To Do|
-|406|[Queue Reconstruction by Height](https://leetcode.com/problemset/all/queue-reconstruction-by-height/description/) |Medium|To Do|To Do|
+|406|[Queue Reconstruction by Height](https://leetcode.com/problemset/all/queue-reconstruction-by-height/description/) |Medium|[JavaScript](https://github.com/seal0112/leetcode/tree/master/leetcode-algorithms/406.%20Queue%20Reconstruction%20by%20Height/QueueReconstructionByHeight.js)|To Do|
 |407|[Trapping Rain Water II](https://leetcode.com/problemset/all/trapping-rain-water-ii/description/) |Hard|To Do|To Do|
 |408|[Valid Word Abbreviation](https://leetcode.com/problemset/all/valid-word-abbreviation/description/) :lock:|Easy|To Do|To Do|
 |409|[Longest Palindrome](https://leetcode.com/problemset/all/longest-palindrome/description/) |Easy|To Do|To Do|
