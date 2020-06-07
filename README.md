@@ -1,8 +1,8 @@
 # Keep thinking, keep alive
-Until 2020-06-06 17:36:51, I have solved **17** / **1469** problems. 
+Until 2020-06-07 21:39:42, I have solved **18** / **1473** problems. 
 
 Completion statistic: 
-1. JavaScript: 16 
+1. JavaScript: 17 
 2. Python: 0
 
 Note: :lock: means you need to buy a book from LeetCode
@@ -516,7 +516,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |515|[Find Largest Value in Each Tree Row](https://leetcode.com/problemset/all/find-largest-value-in-each-tree-row/description/) |Medium|To Do|To Do|
 |516|[Longest Palindromic Subsequence](https://leetcode.com/problemset/all/longest-palindromic-subsequence/description/) |Medium|To Do|To Do|
 |517|[Super Washing Machines](https://leetcode.com/problemset/all/super-washing-machines/description/) |Hard|To Do|To Do|
-|518|[Coin Change 2](https://leetcode.com/problemset/all/coin-change-2/description/) |Medium|To Do|To Do|
+|518|[Coin Change 2](https://leetcode.com/problemset/all/coin-change-2/description/) |Medium|[JavaScript](https://github.com/seal0112/leetcode/tree/master/leetcode-algorithms/518.%20Coin%20Change%202/CoinChange2.js)|To Do|
 |520|[Detect Capital](https://leetcode.com/problemset/all/detect-capital/description/) |Easy|To Do|To Do|
 |521|[Longest Uncommon Subsequence I ](https://leetcode.com/problemset/all/longest-uncommon-subsequence-i/description/) |Easy|To Do|To Do|
 |522|[Longest Uncommon Subsequence II](https://leetcode.com/problemset/all/longest-uncommon-subsequence-ii/description/) |Medium|To Do|To Do|
@@ -1477,6 +1477,10 @@ Note: :lock: means you need to buy a book from LeetCode
 |1467|[Probability of a Two Boxes Having The Same Number of Distinct Balls](https://leetcode.com/problemset/all/probability-of-a-two-boxes-having-the-same-number-of-distinct-balls/description/) |Hard|To Do|To Do|
 |1445|[Apples & Oranges](https://leetcode.com/problemset/all/apples-oranges/description/) :lock:|Medium|To Do|To Do|
 |1454|[Active Users](https://leetcode.com/problemset/all/active-users/description/) :lock:|Medium|To Do|To Do|
+|1470|[Shuffle the Array](https://leetcode.com/problemset/all/shuffle-the-array/description/) |Easy|To Do|To Do|
+|1471|[The k Strongest Values in an Array](https://leetcode.com/problemset/all/the-k-strongest-values-in-an-array/description/) |Medium|To Do|To Do|
+|1472|[Design Browser History](https://leetcode.com/problemset/all/design-browser-history/description/) |Medium|To Do|To Do|
+|1473|[Paint House III](https://leetcode.com/problemset/all/paint-house-iii/description/) |Hard|To Do|To Do|
 |1459|[Rectangles Area](https://leetcode.com/problemset/all/rectangles-area/description/) :lock:|Medium|To Do|To Do|
 |1468|[Calculate Salaries](https://leetcode.com/problemset/all/calculate-salaries/description/) :lock:|Medium|To Do|To Do|
-|1469|[Find All the Lonely Nodes](https://leetcode.com/problemset/all/find-all-the-lonely-nodes/description/) :lock:|Easy|To Do|To Do|
+|1469|[Find All The Lonely Nodes](https://leetcode.com/problemset/all/find-all-the-lonely-nodes/description/) :lock:|Easy|To Do|To Do|
