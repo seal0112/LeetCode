@@ -1,8 +1,8 @@
 # Keep thinking, keep alive
-Until 2020-06-07 21:39:42, I have solved **18** / **1473** problems. 
+Until 2020-06-08 16:03:53, I have solved **19** / **1473** problems. 
 
 Completion statistic: 
-1. JavaScript: 17 
+1. JavaScript: 18 
 2. Python: 0
 
 Note: :lock: means you need to buy a book from LeetCode
@@ -241,7 +241,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |228|[Summary Ranges](https://leetcode.com/problemset/all/summary-ranges/description/) |Medium|To Do|To Do|
 |229|[Majority Element II](https://leetcode.com/problemset/all/majority-element-ii/description/) |Medium|To Do|To Do|
 |230|[Kth Smallest Element in a BST](https://leetcode.com/problemset/all/kth-smallest-element-in-a-bst/description/) |Medium|To Do|To Do|
-|231|[Power of Two](https://leetcode.com/problemset/all/power-of-two/description/) |Easy|To Do|To Do|
+|231|[Power of Two](https://leetcode.com/problemset/all/power-of-two/description/) |Easy|[JavaScript](https://github.com/seal0112/leetcode/tree/master/leetcode-algorithms/231.%20Power%20of%20Two/PowerOfTwo.js)|To Do|
 |232|[Implement Queue using Stacks](https://leetcode.com/problemset/all/implement-queue-using-stacks/description/) |Easy|To Do|To Do|
 |233|[Number of Digit One](https://leetcode.com/problemset/all/number-of-digit-one/description/) |Hard|To Do|To Do|
 |234|[Palindrome Linked List](https://leetcode.com/problemset/all/palindrome-linked-list/description/) |Easy|To Do|To Do|
