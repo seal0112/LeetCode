@@ -1,8 +1,8 @@
 # Keep thinking, keep alive
-Until 2020-06-08 16:03:53, I have solved **19** / **1473** problems. 
+Until 2020-06-09 15:54:07, I have solved **20** / **1473** problems. 
 
 Completion statistic: 
-1. JavaScript: 18 
+1. JavaScript: 19 
 2. Python: 0
 
 Note: :lock: means you need to buy a book from LeetCode
@@ -402,7 +402,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |389|[Find the Difference](https://leetcode.com/problemset/all/find-the-difference/description/) |Easy|To Do|To Do|
 |390|[Elimination Game](https://leetcode.com/problemset/all/elimination-game/description/) |Medium|To Do|To Do|
 |391|[Perfect Rectangle](https://leetcode.com/problemset/all/perfect-rectangle/description/) |Hard|To Do|To Do|
-|392|[Is Subsequence](https://leetcode.com/problemset/all/is-subsequence/description/) |Easy|To Do|To Do|
+|392|[Is Subsequence](https://leetcode.com/problemset/all/is-subsequence/description/) |Easy|[JavaScript](https://github.com/seal0112/leetcode/tree/master/leetcode-algorithms/392.%20Is%20Subsequence/IsSubsequence.js)|To Do|
 |393|[UTF-8 Validation](https://leetcode.com/problemset/all/utf-8-validation/description/) |Medium|To Do|To Do|
 |394|[Decode String](https://leetcode.com/problemset/all/decode-string/description/) |Medium|To Do|To Do|
 |395|[Longest Substring with At Least K Repeating Characters](https://leetcode.com/problemset/all/longest-substring-with-at-least-k-repeating-characters/description/) |Medium|To Do|To Do|
