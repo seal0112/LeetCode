@@ -1,8 +1,8 @@
 # Keep thinking, keep alive
-Until 2020-06-09 15:54:07, I have solved **20** / **1473** problems. 
+Until 2020-06-10 23:05:52, I have solved **21** / **1473** problems. 
 
 Completion statistic: 
-1. JavaScript: 19 
+1. JavaScript: 20 
 2. Python: 0
 
 Note: :lock: means you need to buy a book from LeetCode
@@ -45,7 +45,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |032|[Longest Valid Parentheses](https://leetcode.com/problemset/all/longest-valid-parentheses/description/) |Hard|To Do|To Do|
 |033|[Search in Rotated Sorted Array](https://leetcode.com/problemset/all/search-in-rotated-sorted-array/description/) |Medium|To Do|To Do|
 |034|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problemset/all/find-first-and-last-position-of-element-in-sorted-array/description/) |Medium|To Do|To Do|
-|035|[Search Insert Position](https://leetcode.com/problemset/all/search-insert-position/description/) |Easy|To Do|To Do|
+|035|[Search Insert Position](https://leetcode.com/problemset/all/search-insert-position/description/) |Easy|[JavaScript](https://github.com/seal0112/leetcode/tree/master/leetcode-algorithms/035.%20Search%20Insert%20Position/SearchInsertPosition.js)|To Do|
 |036|[Valid Sudoku](https://leetcode.com/problemset/all/valid-sudoku/description/) |Medium|To Do|To Do|
 |037|[Sudoku Solver](https://leetcode.com/problemset/all/sudoku-solver/description/) |Hard|To Do|To Do|
 |038|[Count and Say](https://leetcode.com/problemset/all/count-and-say/description/) |Easy|To Do|To Do|
