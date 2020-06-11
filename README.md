@@ -1,8 +1,8 @@
 # Keep thinking, keep alive
-Until 2020-06-10 23:05:52, I have solved **21** / **1473** problems. 
+Until 2020-06-11 23:57:27, I have solved **22** / **1474** problems. 
 
 Completion statistic: 
-1. JavaScript: 20 
+1. JavaScript: 21 
 2. Python: 0
 
 Note: :lock: means you need to buy a book from LeetCode
@@ -85,7 +85,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |072|[Edit Distance](https://leetcode.com/problemset/all/edit-distance/description/) |Hard|To Do|To Do|
 |073|[Set Matrix Zeroes](https://leetcode.com/problemset/all/set-matrix-zeroes/description/) |Medium|To Do|To Do|
 |074|[Search a 2D Matrix](https://leetcode.com/problemset/all/search-a-2d-matrix/description/) |Medium|To Do|To Do|
-|075|[Sort Colors](https://leetcode.com/problemset/all/sort-colors/description/) |Medium|To Do|To Do|
+|075|[Sort Colors](https://leetcode.com/problemset/all/sort-colors/description/) |Medium|[JavaScript](https://github.com/seal0112/leetcode/tree/master/leetcode-algorithms/075.%20Sort%20Colors/SortColor.js)|To Do|
 |076|[Minimum Window Substring](https://leetcode.com/problemset/all/minimum-window-substring/description/) |Hard|To Do|To Do|
 |077|[Combinations](https://leetcode.com/problemset/all/combinations/description/) |Medium|To Do|To Do|
 |078|[Subsets](https://leetcode.com/problemset/all/subsets/description/) |Medium|To Do|To Do|
@@ -1484,3 +1484,4 @@ Note: :lock: means you need to buy a book from LeetCode
 |1459|[Rectangles Area](https://leetcode.com/problemset/all/rectangles-area/description/) :lock:|Medium|To Do|To Do|
 |1468|[Calculate Salaries](https://leetcode.com/problemset/all/calculate-salaries/description/) :lock:|Medium|To Do|To Do|
 |1469|[Find All The Lonely Nodes](https://leetcode.com/problemset/all/find-all-the-lonely-nodes/description/) :lock:|Easy|To Do|To Do|
+|1474|[Delete N Nodes After M Nodes of a Linked List](https://leetcode.com/problemset/all/delete-n-nodes-after-m-nodes-of-a-linked-list/description/) :lock:|Easy|To Do|To Do|
