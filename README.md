@@ -1,8 +1,8 @@
 # Keep thinking, keep alive
-Until 2020-06-11 23:57:27, I have solved **22** / **1474** problems. 
+Until 2020-06-13 01:16:18, I have solved **23** / **1474** problems. 
 
 Completion statistic: 
-1. JavaScript: 21 
+1. JavaScript: 22 
 2. Python: 0
 
 Note: :lock: means you need to buy a book from LeetCode
@@ -49,7 +49,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |036|[Valid Sudoku](https://leetcode.com/problemset/all/valid-sudoku/description/) |Medium|To Do|To Do|
 |037|[Sudoku Solver](https://leetcode.com/problemset/all/sudoku-solver/description/) |Hard|To Do|To Do|
 |038|[Count and Say](https://leetcode.com/problemset/all/count-and-say/description/) |Easy|To Do|To Do|
-|039|[Combination Sum](https://leetcode.com/problemset/all/combination-sum/description/) |Medium|To Do|To Do|
+|039|[Combination Sum](https://leetcode.com/problemset/all/combination-sum/description/) |Medium|[JavaScript](https://github.com/seal0112/leetcode/tree/master/leetcode-algorithms/039.%20Combination%20Sum/CombinationSum.js)|To Do|
 |040|[Combination Sum II](https://leetcode.com/problemset/all/combination-sum-ii/description/) |Medium|To Do|To Do|
 |041|[First Missing Positive](https://leetcode.com/problemset/all/first-missing-positive/description/) |Hard|To Do|To Do|
 |042|[Trapping Rain Water](https://leetcode.com/problemset/all/trapping-rain-water/description/) |Hard|To Do|To Do|
