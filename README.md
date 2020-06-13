@@ -1,8 +1,8 @@
 # Keep thinking, keep alive
-Until 2020-06-13 01:16:18, I have solved **23** / **1474** problems. 
+Until 2020-06-13 17:02:26, I have solved **24** / **1474** problems. 
 
 Completion statistic: 
-1. JavaScript: 22 
+1. JavaScript: 23 
 2. Python: 0
 
 Note: :lock: means you need to buy a book from LeetCode
@@ -390,7 +390,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |377|[Combination Sum IV](https://leetcode.com/problemset/all/combination-sum-iv/description/) |Medium|To Do|To Do|
 |378|[Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problemset/all/kth-smallest-element-in-a-sorted-matrix/description/) |Medium|To Do|To Do|
 |379|[Design Phone Directory](https://leetcode.com/problemset/all/design-phone-directory/description/) :lock:|Medium|To Do|To Do|
-|380|[Insert Delete GetRandom O(1)](https://leetcode.com/problemset/all/insert-delete-getrandom-o1/description/) |Medium|To Do|To Do|
+|380|[Insert Delete GetRandom O(1)](https://leetcode.com/problemset/all/insert-delete-getrandom-o1/description/) |Medium|[JavaScript](https://github.com/seal0112/leetcode/tree/master/leetcode-algorithms/380.%20Insert%20Delete%20GetRandom%20O(1)/InsertDeleteGetRandomO(1)Solution.js)|To Do|
 |381|[Insert Delete GetRandom O(1) - Duplicates allowed](https://leetcode.com/problemset/all/insert-delete-getrandom-o1-duplicates-allowed/description/) |Hard|To Do|To Do|
 |382|[Linked List Random Node](https://leetcode.com/problemset/all/linked-list-random-node/description/) |Medium|To Do|To Do|
 |383|[Ransom Note](https://leetcode.com/problemset/all/ransom-note/description/) |Easy|To Do|To Do|
