@@ -1,8 +1,8 @@
 # Keep thinking, keep alive
-Until 2020-06-13 17:02:26, I have solved **24** / **1474** problems. 
+Until 2020-06-14 16:23:56, I have solved **25** / **1483** problems. 
 
 Completion statistic: 
-1. JavaScript: 23 
+1. JavaScript: 24 
 2. Python: 0
 
 Note: :lock: means you need to buy a book from LeetCode
@@ -310,7 +310,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |297|[Serialize and Deserialize Binary Tree](https://leetcode.com/problemset/all/serialize-and-deserialize-binary-tree/description/) |Hard|To Do|To Do|
 |298|[Binary Tree Longest Consecutive Sequence](https://leetcode.com/problemset/all/binary-tree-longest-consecutive-sequence/description/) :lock:|Medium|To Do|To Do|
 |299|[Bulls and Cows](https://leetcode.com/problemset/all/bulls-and-cows/description/) |Easy|To Do|To Do|
-|300|[Longest Increasing Subsequence](https://leetcode.com/problemset/all/longest-increasing-subsequence/description/) |Medium|To Do|To Do|
+|300|[Longest Increasing Subsequence](https://leetcode.com/problemset/all/longest-increasing-subsequence/description/) |Medium|[JavaScript](https://github.com/seal0112/leetcode/tree/master/leetcode-algorithms/300.%20Longest%20Increasing%20Subsequence/LongestIncreasingSubsequence.js)|To Do|
 |301|[Remove Invalid Parentheses](https://leetcode.com/problemset/all/remove-invalid-parentheses/description/) |Hard|To Do|To Do|
 |302|[Smallest Rectangle Enclosing Black Pixels](https://leetcode.com/problemset/all/smallest-rectangle-enclosing-black-pixels/description/) :lock:|Hard|To Do|To Do|
 |303|[Range Sum Query - Immutable](https://leetcode.com/problemset/all/range-sum-query-immutable/description/) |Easy|To Do|To Do|
@@ -1247,6 +1247,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |1187|[Make Array Strictly Increasing](https://leetcode.com/problemset/all/make-array-strictly-increasing/description/) |Hard|To Do|To Do|
 |1173|[Immediate Food Delivery I](https://leetcode.com/problemset/all/immediate-food-delivery-i/description/) :lock:|Easy|To Do|To Do|
 |1174|[Immediate Food Delivery II](https://leetcode.com/problemset/all/immediate-food-delivery-ii/description/) :lock:|Medium|To Do|To Do|
+|5456|[Kth Ancestor of a Tree Node](https://leetcode.com/problemset/all/kth-ancestor-of-a-tree-node/description/) |Hard|To Do|To Do|
 |1189|[Maximum Number of Balloons](https://leetcode.com/problemset/all/maximum-number-of-balloons/description/) |Easy|To Do|To Do|
 |1190|[Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problemset/all/reverse-substrings-between-each-pair-of-parentheses/description/) |Medium|To Do|To Do|
 |1191|[K-Concatenation Maximum Sum](https://leetcode.com/problemset/all/k-concatenation-maximum-sum/description/) |Medium|To Do|To Do|
@@ -1471,6 +1472,10 @@ Note: :lock: means you need to buy a book from LeetCode
 |1456|[Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problemset/all/maximum-number-of-vowels-in-a-substring-of-given-length/description/) |Medium|To Do|To Do|
 |1457|[Pseudo-Palindromic Paths in a Binary Tree](https://leetcode.com/problemset/all/pseudo-palindromic-paths-in-a-binary-tree/description/) |Medium|To Do|To Do|
 |1458|[Max Dot Product of Two Subsequences](https://leetcode.com/problemset/all/max-dot-product-of-two-subsequences/description/) |Hard|To Do|To Do|
+|1475|[Final Prices With a Special Discount in a Shop](https://leetcode.com/problemset/all/final-prices-with-a-special-discount-in-a-shop/description/) |Easy|To Do|To Do|
+|1478|[Allocate Mailboxes](https://leetcode.com/problemset/all/allocate-mailboxes/description/) |Hard|To Do|To Do|
+|1476|[Subrectangle Queries](https://leetcode.com/problemset/all/subrectangle-queries/description/) |Medium|To Do|To Do|
+|1477|[Find Two Non-overlapping Sub-arrays Each With Target Sum](https://leetcode.com/problemset/all/find-two-non-overlapping-sub-arrays-each-with-target-sum/description/) |Medium|To Do|To Do|
 |1464|[Maximum Product of Two Elements in an Array](https://leetcode.com/problemset/all/maximum-product-of-two-elements-in-an-array/description/) |Easy|To Do|To Do|
 |1465|[Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](https://leetcode.com/problemset/all/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/description/) |Medium|To Do|To Do|
 |1466|[Reorder Routes to Make All Paths Lead to the City Zero](https://leetcode.com/problemset/all/reorder-routes-to-make-all-paths-lead-to-the-city-zero/description/) |Medium|To Do|To Do|
@@ -1481,7 +1486,11 @@ Note: :lock: means you need to buy a book from LeetCode
 |1471|[The k Strongest Values in an Array](https://leetcode.com/problemset/all/the-k-strongest-values-in-an-array/description/) |Medium|To Do|To Do|
 |1472|[Design Browser History](https://leetcode.com/problemset/all/design-browser-history/description/) |Medium|To Do|To Do|
 |1473|[Paint House III](https://leetcode.com/problemset/all/paint-house-iii/description/) |Hard|To Do|To Do|
+|5453|[Running Sum of 1d Array](https://leetcode.com/problemset/all/running-sum-of-1d-array/description/) |Easy|To Do|To Do|
+|5454|[Least Number of Unique Integers after K Removals](https://leetcode.com/problemset/all/least-number-of-unique-integers-after-k-removals/description/) |Medium|To Do|To Do|
+|5455|[Minimum Number of Days to Make m Bouquets](https://leetcode.com/problemset/all/minimum-number-of-days-to-make-m-bouquets/description/) |Medium|To Do|To Do|
 |1459|[Rectangles Area](https://leetcode.com/problemset/all/rectangles-area/description/) :lock:|Medium|To Do|To Do|
 |1468|[Calculate Salaries](https://leetcode.com/problemset/all/calculate-salaries/description/) :lock:|Medium|To Do|To Do|
 |1469|[Find All The Lonely Nodes](https://leetcode.com/problemset/all/find-all-the-lonely-nodes/description/) :lock:|Easy|To Do|To Do|
 |1474|[Delete N Nodes After M Nodes of a Linked List](https://leetcode.com/problemset/all/delete-n-nodes-after-m-nodes-of-a-linked-list/description/) :lock:|Easy|To Do|To Do|
+|5452|[Sales by Day of the Week](https://leetcode.com/problemset/all/sales-by-day-of-the-week/description/) :lock:|Hard|To Do|To Do|
