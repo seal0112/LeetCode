@@ -1,8 +1,8 @@
 # Keep thinking, keep alive
-Until 2020-06-14 16:23:56, I have solved **25** / **1483** problems. 
+Until 2020-06-15 14:13:28, I have solved **26** / **1483** problems. 
 
 Completion statistic: 
-1. JavaScript: 24 
+1. JavaScript: 25 
 2. Python: 0
 
 Note: :lock: means you need to buy a book from LeetCode
@@ -780,7 +780,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |784|[Letter Case Permutation](https://leetcode.com/problemset/all/letter-case-permutation/description/) |Easy|To Do|To Do|
 |785|[Is Graph Bipartite?](https://leetcode.com/problemset/all/is-graph-bipartite/description/) |Medium|To Do|To Do|
 |786|[K-th Smallest Prime Fraction](https://leetcode.com/problemset/all/k-th-smallest-prime-fraction/description/) |Hard|To Do|To Do|
-|787|[Cheapest Flights Within K Stops](https://leetcode.com/problemset/all/cheapest-flights-within-k-stops/description/) |Medium|To Do|To Do|
+|787|[Cheapest Flights Within K Stops](https://leetcode.com/problemset/all/cheapest-flights-within-k-stops/description/) |Medium|[JavaScript](https://github.com/seal0112/leetcode/tree/master/leetcode-algorithms/787.%20Cheapest%20Flights%20Within%20K%20Stops/CheapestFlightsWithinKStopsSolution.js)|To Do|
 |788|[Rotated Digits](https://leetcode.com/problemset/all/rotated-digits/description/) |Easy|To Do|To Do|
 |789|[Escape The Ghosts](https://leetcode.com/problemset/all/escape-the-ghosts/description/) |Medium|To Do|To Do|
 |790|[Domino and Tromino Tiling](https://leetcode.com/problemset/all/domino-and-tromino-tiling/description/) |Medium|To Do|To Do|
@@ -1247,7 +1247,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |1187|[Make Array Strictly Increasing](https://leetcode.com/problemset/all/make-array-strictly-increasing/description/) |Hard|To Do|To Do|
 |1173|[Immediate Food Delivery I](https://leetcode.com/problemset/all/immediate-food-delivery-i/description/) :lock:|Easy|To Do|To Do|
 |1174|[Immediate Food Delivery II](https://leetcode.com/problemset/all/immediate-food-delivery-ii/description/) :lock:|Medium|To Do|To Do|
-|5456|[Kth Ancestor of a Tree Node](https://leetcode.com/problemset/all/kth-ancestor-of-a-tree-node/description/) |Hard|To Do|To Do|
+|1483|[Kth Ancestor of a Tree Node](https://leetcode.com/problemset/all/kth-ancestor-of-a-tree-node/description/) |Hard|To Do|To Do|
 |1189|[Maximum Number of Balloons](https://leetcode.com/problemset/all/maximum-number-of-balloons/description/) |Easy|To Do|To Do|
 |1190|[Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problemset/all/reverse-substrings-between-each-pair-of-parentheses/description/) |Medium|To Do|To Do|
 |1191|[K-Concatenation Maximum Sum](https://leetcode.com/problemset/all/k-concatenation-maximum-sum/description/) |Medium|To Do|To Do|
@@ -1486,11 +1486,11 @@ Note: :lock: means you need to buy a book from LeetCode
 |1471|[The k Strongest Values in an Array](https://leetcode.com/problemset/all/the-k-strongest-values-in-an-array/description/) |Medium|To Do|To Do|
 |1472|[Design Browser History](https://leetcode.com/problemset/all/design-browser-history/description/) |Medium|To Do|To Do|
 |1473|[Paint House III](https://leetcode.com/problemset/all/paint-house-iii/description/) |Hard|To Do|To Do|
-|5453|[Running Sum of 1d Array](https://leetcode.com/problemset/all/running-sum-of-1d-array/description/) |Easy|To Do|To Do|
-|5454|[Least Number of Unique Integers after K Removals](https://leetcode.com/problemset/all/least-number-of-unique-integers-after-k-removals/description/) |Medium|To Do|To Do|
-|5455|[Minimum Number of Days to Make m Bouquets](https://leetcode.com/problemset/all/minimum-number-of-days-to-make-m-bouquets/description/) |Medium|To Do|To Do|
+|1480|[Running Sum of 1d Array](https://leetcode.com/problemset/all/running-sum-of-1d-array/description/) |Easy|To Do|To Do|
+|1481|[Least Number of Unique Integers after K Removals](https://leetcode.com/problemset/all/least-number-of-unique-integers-after-k-removals/description/) |Medium|To Do|To Do|
+|1482|[Minimum Number of Days to Make m Bouquets](https://leetcode.com/problemset/all/minimum-number-of-days-to-make-m-bouquets/description/) |Medium|To Do|To Do|
 |1459|[Rectangles Area](https://leetcode.com/problemset/all/rectangles-area/description/) :lock:|Medium|To Do|To Do|
 |1468|[Calculate Salaries](https://leetcode.com/problemset/all/calculate-salaries/description/) :lock:|Medium|To Do|To Do|
 |1469|[Find All The Lonely Nodes](https://leetcode.com/problemset/all/find-all-the-lonely-nodes/description/) :lock:|Easy|To Do|To Do|
 |1474|[Delete N Nodes After M Nodes of a Linked List](https://leetcode.com/problemset/all/delete-n-nodes-after-m-nodes-of-a-linked-list/description/) :lock:|Easy|To Do|To Do|
-|5452|[Sales by Day of the Week](https://leetcode.com/problemset/all/sales-by-day-of-the-week/description/) :lock:|Hard|To Do|To Do|
+|1479|[Sales by Day of the Week](https://leetcode.com/problemset/all/sales-by-day-of-the-week/description/) :lock:|Hard|To Do|To Do|
