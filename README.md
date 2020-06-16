@@ -1,8 +1,8 @@
 # Keep thinking, keep alive
-Until 2020-06-15 18:37:58, I have solved **27** / **1483** problems. 
+Until 2020-06-16 18:47:09, I have solved **28** / **1483** problems. 
 
 Completion statistic: 
-1. JavaScript: 25 
+1. JavaScript: 26 
 2. Python: 0
 
 Note: :lock: means you need to buy a book from LeetCode
@@ -472,7 +472,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |465|[Optimal Account Balancing](https://leetcode.com/problemset/all/optimal-account-balancing/description/) :lock:|Hard|To Do|To Do|
 |466|[Count The Repetitions](https://leetcode.com/problemset/all/count-the-repetitions/description/) |Hard|To Do|To Do|
 |467|[Unique Substrings in Wraparound String](https://leetcode.com/problemset/all/unique-substrings-in-wraparound-string/description/) |Medium|To Do|To Do|
-|468|[Validate IP Address](https://leetcode.com/problemset/all/validate-ip-address/description/) |Medium|To Do|To Do|
+|468|[Validate IP Address](https://leetcode.com/problemset/all/validate-ip-address/description/) |Medium|[JavaScript](https://github.com/seal0112/leetcode/tree/master/leetcode-algorithms/468.%20Validate%20IP%20Address/ValidateIPAddress.js)|To Do|
 |469|[Convex Polygon](https://leetcode.com/problemset/all/convex-polygon/description/) :lock:|Medium|To Do|To Do|
 |471|[Encode String with Shortest Length](https://leetcode.com/problemset/all/encode-string-with-shortest-length/description/) :lock:|Hard|To Do|To Do|
 |472|[Concatenated Words](https://leetcode.com/problemset/all/concatenated-words/description/) |Hard|To Do|To Do|
