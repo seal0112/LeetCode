@@ -1,8 +1,8 @@
 # Keep thinking, keep alive
-Until 2020-06-16 18:47:09, I have solved **28** / **1483** problems. 
+Until 2020-06-18 14:11:14, I have solved **29** / **1485** problems. 
 
 Completion statistic: 
-1. JavaScript: 26 
+1. JavaScript: 27 
 2. Python: 0
 
 Note: :lock: means you need to buy a book from LeetCode
@@ -140,7 +140,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |127|[Word Ladder](https://leetcode.com/problemset/all/word-ladder/description/) |Medium|[JavaScript](https://github.com/seal0112/leetcode/tree/master/leetcode-algorithms/1277.%20Count%20Square%20Submatrices%20with%20All%20Ones/CountSquareSubmatricesWithAllOnes.js)|To Do|
 |128|[Longest Consecutive Sequence](https://leetcode.com/problemset/all/longest-consecutive-sequence/description/) |Hard|To Do|To Do|
 |129|[Sum Root to Leaf Numbers](https://leetcode.com/problemset/all/sum-root-to-leaf-numbers/description/) |Medium|To Do|To Do|
-|130|[Surrounded Regions](https://leetcode.com/problemset/all/surrounded-regions/description/) |Medium|To Do|To Do|
+|130|[Surrounded Regions](https://leetcode.com/problemset/all/surrounded-regions/description/) |Medium|[JavaScript](https://github.com/seal0112/leetcode/tree/master/leetcode-algorithms/130.%20Surrounded%20Regions/SurroundedRegions.js)|To Do|
 |131|[Palindrome Partitioning](https://leetcode.com/problemset/all/palindrome-partitioning/description/) |Medium|To Do|To Do|
 |132|[Palindrome Partitioning II](https://leetcode.com/problemset/all/palindrome-partitioning-ii/description/) |Hard|To Do|To Do|
 |133|[Clone Graph](https://leetcode.com/problemset/all/clone-graph/description/) |Medium|To Do|To Do|
@@ -1494,3 +1494,5 @@ Note: :lock: means you need to buy a book from LeetCode
 |1469|[Find All The Lonely Nodes](https://leetcode.com/problemset/all/find-all-the-lonely-nodes/description/) :lock:|Easy|To Do|To Do|
 |1474|[Delete N Nodes After M Nodes of a Linked List](https://leetcode.com/problemset/all/delete-n-nodes-after-m-nodes-of-a-linked-list/description/) :lock:|Easy|To Do|To Do|
 |1479|[Sales by Day of the Week](https://leetcode.com/problemset/all/sales-by-day-of-the-week/description/) :lock:|Hard|To Do|To Do|
+|1485|[Clone Binary Tree With Random Pointer](https://leetcode.com/problemset/all/clone-binary-tree-with-random-pointer/description/) :lock:|Medium|To Do|To Do|
+|1484|[Group Sold Products By The Date](https://leetcode.com/problemset/all/group-sold-products-by-the-date/description/) :lock:|Easy|To Do|To Do|
