@@ -1,8 +1,8 @@
 # Keep thinking, keep alive
-Until 2020-06-18 14:11:14, I have solved **29** / **1485** problems. 
+Until 2020-06-21 17:37:04, I have solved **30** / **1485** problems. 
 
 Completion statistic: 
-1. JavaScript: 27 
+1. JavaScript: 28 
 2. Python: 0
 
 Note: :lock: means you need to buy a book from LeetCode
@@ -184,7 +184,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |171|[Excel Sheet Column Number](https://leetcode.com/problemset/all/excel-sheet-column-number/description/) |Easy|To Do|To Do|
 |172|[Factorial Trailing Zeroes](https://leetcode.com/problemset/all/factorial-trailing-zeroes/description/) |Easy|To Do|To Do|
 |173|[Binary Search Tree Iterator](https://leetcode.com/problemset/all/binary-search-tree-iterator/description/) |Medium|To Do|To Do|
-|174|[Dungeon Game](https://leetcode.com/problemset/all/dungeon-game/description/) |Hard|To Do|To Do|
+|174|[Dungeon Game](https://leetcode.com/problemset/all/dungeon-game/description/) |Hard|[JavaScript](https://github.com/seal0112/leetcode/tree/master/leetcode-algorithms/174.%20Dungeon%20Game/DungeonGame.js)|To Do|
 |175|[Combine Two Tables](https://leetcode.com/problemset/all/combine-two-tables/description/) |Easy|To Do|To Do|
 |176|[Second Highest Salary](https://leetcode.com/problemset/all/second-highest-salary/description/) |Easy|To Do|To Do|
 |177|[Nth Highest Salary](https://leetcode.com/problemset/all/nth-highest-salary/description/) |Medium|To Do|To Do|
