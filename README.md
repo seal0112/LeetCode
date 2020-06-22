@@ -1,9 +1,9 @@
 # Keep thinking, keep alive
-Until 2020-06-21 17:37:04, I have solved **30** / **1485** problems. 
+Until 2020-06-22 22:55:31, I have solved **31** / **1485** problems. 
 
 Completion statistic: 
 1. JavaScript: 28 
-2. Python: 0
+2. Python: 1
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -147,7 +147,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |134|[Gas Station](https://leetcode.com/problemset/all/gas-station/description/) |Medium|To Do|To Do|
 |135|[Candy](https://leetcode.com/problemset/all/candy/description/) |Hard|To Do|To Do|
 |136|[Single Number](https://leetcode.com/problemset/all/single-number/description/) |Easy|To Do|To Do|
-|137|[Single Number II](https://leetcode.com/problemset/all/single-number-ii/description/) |Medium|To Do|To Do|
+|137|[Single Number II](https://leetcode.com/problemset/all/single-number-ii/description/) |Medium|To Do|[python](https://github.com/seal0112/leetcode/tree/master/leetcode-algorithms/137.%20Single%20Number%20II/SingleNumberII.py)|
 |138|[Copy List with Random Pointer](https://leetcode.com/problemset/all/copy-list-with-random-pointer/description/) |Medium|To Do|To Do|
 |139|[Word Break](https://leetcode.com/problemset/all/word-break/description/) |Medium|To Do|To Do|
 |140|[Word Break II](https://leetcode.com/problemset/all/word-break-ii/description/) |Hard|To Do|To Do|
