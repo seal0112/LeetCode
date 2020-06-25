@@ -1,9 +1,9 @@
 # Keep thinking, keep alive
-Until 2020-06-22 22:55:31, I have solved **31** / **1485** problems. 
+Until 2020-06-25 12:21:10, I have solved **32** / **1489** problems. 
 
 Completion statistic: 
 1. JavaScript: 28 
-2. Python: 1
+2. Python: 2
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -106,7 +106,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |093|[Restore IP Addresses](https://leetcode.com/problemset/all/restore-ip-addresses/description/) |Medium|To Do|To Do|
 |094|[Binary Tree Inorder Traversal](https://leetcode.com/problemset/all/binary-tree-inorder-traversal/description/) |Medium|To Do|To Do|
 |095|[Unique Binary Search Trees II](https://leetcode.com/problemset/all/unique-binary-search-trees-ii/description/) |Medium|To Do|To Do|
-|096|[Unique Binary Search Trees](https://leetcode.com/problemset/all/unique-binary-search-trees/description/) |Medium|To Do|To Do|
+|096|[Unique Binary Search Trees](https://leetcode.com/problemset/all/unique-binary-search-trees/description/) |Medium|To Do|[python](https://github.com/seal0112/leetcode/tree/master/leetcode-algorithms/096.%20Unique%20Binary%20Search%20Trees/UniqueBinarySearchTrees.py)|
 |097|[Interleaving String](https://leetcode.com/problemset/all/interleaving-string/description/) |Hard|To Do|To Do|
 |098|[Validate Binary Search Tree](https://leetcode.com/problemset/all/validate-binary-search-tree/description/) |Medium|To Do|To Do|
 |099|[Recover Binary Search Tree](https://leetcode.com/problemset/all/recover-binary-search-tree/description/) |Hard|To Do|To Do|
@@ -1492,6 +1492,10 @@ Note: :lock: means you need to buy a book from LeetCode
 |1459|[Rectangles Area](https://leetcode.com/problemset/all/rectangles-area/description/) :lock:|Medium|To Do|To Do|
 |1468|[Calculate Salaries](https://leetcode.com/problemset/all/calculate-salaries/description/) :lock:|Medium|To Do|To Do|
 |1469|[Find All The Lonely Nodes](https://leetcode.com/problemset/all/find-all-the-lonely-nodes/description/) :lock:|Easy|To Do|To Do|
+|1486|[XOR Operation in an Array](https://leetcode.com/problemset/all/xor-operation-in-an-array/description/) |Easy|To Do|To Do|
+|1487|[Making File Names Unique](https://leetcode.com/problemset/all/making-file-names-unique/description/) |Medium|To Do|To Do|
+|1488|[Avoid Flood in The City](https://leetcode.com/problemset/all/avoid-flood-in-the-city/description/) |Medium|To Do|To Do|
+|1489|[Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree](https://leetcode.com/problemset/all/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/description/) |Hard|To Do|To Do|
 |1474|[Delete N Nodes After M Nodes of a Linked List](https://leetcode.com/problemset/all/delete-n-nodes-after-m-nodes-of-a-linked-list/description/) :lock:|Easy|To Do|To Do|
 |1479|[Sales by Day of the Week](https://leetcode.com/problemset/all/sales-by-day-of-the-week/description/) :lock:|Hard|To Do|To Do|
 |1485|[Clone Binary Tree With Random Pointer](https://leetcode.com/problemset/all/clone-binary-tree-with-random-pointer/description/) :lock:|Medium|To Do|To Do|
