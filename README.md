@@ -1,9 +1,9 @@
 # Keep thinking, keep alive
-Until 2020-06-25 12:21:10, I have solved **32** / **1489** problems. 
+Until 2020-06-26 17:21:27, I have solved **33** / **1490** problems. 
 
 Completion statistic: 
 1. JavaScript: 28 
-2. Python: 2
+2. Python: 3
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -246,7 +246,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |233|[Number of Digit One](https://leetcode.com/problemset/all/number-of-digit-one/description/) |Hard|To Do|To Do|
 |234|[Palindrome Linked List](https://leetcode.com/problemset/all/palindrome-linked-list/description/) |Easy|To Do|To Do|
 |235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problemset/all/lowest-common-ancestor-of-a-binary-search-tree/description/) |Easy|To Do|To Do|
-|236|[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problemset/all/lowest-common-ancestor-of-a-binary-tree/description/) |Medium|To Do|To Do|
+|236|[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problemset/all/lowest-common-ancestor-of-a-binary-tree/description/) |Medium|To Do|[python](https://github.com/seal0112/leetcode/tree/master/leetcode-algorithms/236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree/LowestCommonAncestorOfABinaryTree.py)|
 |237|[Delete Node in a Linked List](https://leetcode.com/problemset/all/delete-node-in-a-linked-list/description/) |Easy|[JavaScript](https://github.com/seal0112/leetcode/tree/master/leetcode-algorithms/237.%20Delete%20Node%20in%20a%20Linked%20List/DeleteNodeInALinkedList.js)|To Do|
 |238|[Product of Array Except Self](https://leetcode.com/problemset/all/product-of-array-except-self/description/) |Medium|To Do|To Do|
 |239|[Sliding Window Maximum](https://leetcode.com/problemset/all/sliding-window-maximum/description/) |Hard|To Do|To Do|
@@ -1500,3 +1500,4 @@ Note: :lock: means you need to buy a book from LeetCode
 |1479|[Sales by Day of the Week](https://leetcode.com/problemset/all/sales-by-day-of-the-week/description/) :lock:|Hard|To Do|To Do|
 |1485|[Clone Binary Tree With Random Pointer](https://leetcode.com/problemset/all/clone-binary-tree-with-random-pointer/description/) :lock:|Medium|To Do|To Do|
 |1484|[Group Sold Products By The Date](https://leetcode.com/problemset/all/group-sold-products-by-the-date/description/) :lock:|Easy|To Do|To Do|
+|1490|[Clone N-ary Tree](https://leetcode.com/problemset/all/clone-n-ary-tree/description/) :lock:|Medium|To Do|To Do|
