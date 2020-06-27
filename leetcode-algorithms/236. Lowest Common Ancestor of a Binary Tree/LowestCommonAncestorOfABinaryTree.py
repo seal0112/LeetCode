@@ -41,7 +41,7 @@ class Solution:
      因為是binary tree, 有保證每個點只有一個
 
      上面的解法用遞迴, 時間複雜度相同O(n), 但是執行時間時間有點久
-     這邊的解法用dfs, 先用dfs找到所有node的parent(用dict紀錄 key是node, value是parent)
+     這邊的解法用bfs, 先用bfs找到所有node的parent(用dict紀錄 key是node, value是parent)
      然後再從p由的parent開始找出p的ancestor有哪些,
      接著檢查q的ancestor, 如果其中一個跟p的相同, 就代表這個node是LCA
      這樣時間複雜度是O(n), 因為不是遞迴, 所以執行時間會快一些

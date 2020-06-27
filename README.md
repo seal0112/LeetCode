@@ -1,9 +1,9 @@
 # Keep thinking, keep alive
-Until 2020-06-26 17:21:27, I have solved **33** / **1490** problems. 
+Until 2020-06-27 15:26:25, I have solved **34** / **1490** problems. 
 
 Completion statistic: 
 1. JavaScript: 28 
-2. Python: 3
+2. Python: 4
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -139,7 +139,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |126|[Word Ladder II](https://leetcode.com/problemset/all/word-ladder-ii/description/) |Hard|To Do|To Do|
 |127|[Word Ladder](https://leetcode.com/problemset/all/word-ladder/description/) |Medium|[JavaScript](https://github.com/seal0112/leetcode/tree/master/leetcode-algorithms/1277.%20Count%20Square%20Submatrices%20with%20All%20Ones/CountSquareSubmatricesWithAllOnes.js)|To Do|
 |128|[Longest Consecutive Sequence](https://leetcode.com/problemset/all/longest-consecutive-sequence/description/) |Hard|To Do|To Do|
-|129|[Sum Root to Leaf Numbers](https://leetcode.com/problemset/all/sum-root-to-leaf-numbers/description/) |Medium|To Do|To Do|
+|129|[Sum Root to Leaf Numbers](https://leetcode.com/problemset/all/sum-root-to-leaf-numbers/description/) |Medium|To Do|[python](https://github.com/seal0112/leetcode/tree/master/leetcode-algorithms/129.%20Sum%20Root%20to%20Leaf%20Numbers/SumRootToLeafNumbers.py)|
 |130|[Surrounded Regions](https://leetcode.com/problemset/all/surrounded-regions/description/) |Medium|[JavaScript](https://github.com/seal0112/leetcode/tree/master/leetcode-algorithms/130.%20Surrounded%20Regions/SurroundedRegions.js)|To Do|
 |131|[Palindrome Partitioning](https://leetcode.com/problemset/all/palindrome-partitioning/description/) |Medium|To Do|To Do|
 |132|[Palindrome Partitioning II](https://leetcode.com/problemset/all/palindrome-partitioning-ii/description/) |Hard|To Do|To Do|
