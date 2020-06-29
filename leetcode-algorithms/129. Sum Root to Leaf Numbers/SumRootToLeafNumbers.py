@@ -36,3 +36,29 @@ class Solution:
         if node.left == None and node.right == None:
             self.result += int(num)
             num = num[0:len(num)-1]
+
+# Definition for a binary tree node.
+# class TreeNode:
+#     def __init__(self, val=0, left=None, right=None):
+#         self.val = val
+#         self.left = left
+#         self.right = right
+"""
+解題: 另一種解法, 類似bfs, 把每個parent node.val註記給子node
+"""
+class Solution:
+    def sumNumbers(self, root: TreeNode) -> int:
+        res = 0
+        stack = [(root, 0)]
+
+        while stack:
+            curr_node, carry = stack.pop()
+            if curr_node:
+                carry = carry*10 + curr_node.val
+                if not curr_node.left and not curr_node.right:
+                    res += carry
+                else:
+                    stack.append((curr_node.left, carry))
+                    stack.append((curr_node.right, carry))
+
+        return res

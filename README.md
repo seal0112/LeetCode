@@ -1,9 +1,9 @@
 # Keep thinking, keep alive
-Until 2020-06-27 15:26:25, I have solved **34** / **1490** problems. 
+Until 2020-06-29 22:38:27, I have solved **34** / **1499** problems. 
 
 Completion statistic: 
 1. JavaScript: 28 
-2. Python: 4
+2. Python: 5
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -72,7 +72,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |059|[Spiral Matrix II](https://leetcode.com/problemset/all/spiral-matrix-ii/description/) |Medium|To Do|To Do|
 |060|[Permutation Sequence](https://leetcode.com/problemset/all/permutation-sequence/description/) |Medium|[JavaScript](https://github.com/seal0112/leetcode/tree/master/leetcode-algorithms/060.%20Permutation%20Sequence/PermutationSequence.js)|To Do|
 |061|[Rotate List](https://leetcode.com/problemset/all/rotate-list/description/) |Medium|[JavaScript](https://github.com/seal0112/leetcode/tree/master/leetcode-algorithms/061.%20Rotate%20List/RotateList.js)|To Do|
-|062|[Unique Paths](https://leetcode.com/problemset/all/unique-paths/description/) |Medium|[JavaScript](https://github.com/seal0112/leetcode/tree/master/leetcode-algorithms/062.%20Unique%20Paths/Unique Paths.js)|To Do|
+|062|[Unique Paths](https://leetcode.com/problemset/all/unique-paths/description/) |Medium|[JavaScript](https://github.com/seal0112/leetcode/tree/master/leetcode-algorithms/062.%20Unique%20Paths/Unique Paths.js)|[python](https://github.com/seal0112/leetcode/tree/master/leetcode-algorithms/062.%20Unique%20Paths/UniquePaths.py)|
 |063|[Unique Paths II](https://leetcode.com/problemset/all/unique-paths-ii/description/) |Medium|To Do|To Do|
 |064|[Minimum Path Sum](https://leetcode.com/problemset/all/minimum-path-sum/description/) |Medium|To Do|To Do|
 |065|[Valid Number](https://leetcode.com/problemset/all/valid-number/description/) |Hard|To Do|To Do|
@@ -1486,6 +1486,10 @@ Note: :lock: means you need to buy a book from LeetCode
 |1471|[The k Strongest Values in an Array](https://leetcode.com/problemset/all/the-k-strongest-values-in-an-array/description/) |Medium|To Do|To Do|
 |1472|[Design Browser History](https://leetcode.com/problemset/all/design-browser-history/description/) |Medium|To Do|To Do|
 |1473|[Paint House III](https://leetcode.com/problemset/all/paint-house-iii/description/) |Hard|To Do|To Do|
+|1491|[Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problemset/all/average-salary-excluding-the-minimum-and-maximum-salary/description/) |Easy|To Do|To Do|
+|1492|[The kth Factor of n](https://leetcode.com/problemset/all/the-kth-factor-of-n/description/) |Medium|To Do|To Do|
+|1493|[Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problemset/all/longest-subarray-of-1s-after-deleting-one-element/description/) |Medium|To Do|To Do|
+|1494|[Parallel Courses II](https://leetcode.com/problemset/all/parallel-courses-ii/description/) |Hard|To Do|To Do|
 |1480|[Running Sum of 1d Array](https://leetcode.com/problemset/all/running-sum-of-1d-array/description/) |Easy|To Do|To Do|
 |1481|[Least Number of Unique Integers after K Removals](https://leetcode.com/problemset/all/least-number-of-unique-integers-after-k-removals/description/) |Medium|To Do|To Do|
 |1482|[Minimum Number of Days to Make m Bouquets](https://leetcode.com/problemset/all/minimum-number-of-days-to-make-m-bouquets/description/) |Medium|To Do|To Do|
@@ -1497,7 +1501,12 @@ Note: :lock: means you need to buy a book from LeetCode
 |1488|[Avoid Flood in The City](https://leetcode.com/problemset/all/avoid-flood-in-the-city/description/) |Medium|To Do|To Do|
 |1489|[Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree](https://leetcode.com/problemset/all/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/description/) |Hard|To Do|To Do|
 |1474|[Delete N Nodes After M Nodes of a Linked List](https://leetcode.com/problemset/all/delete-n-nodes-after-m-nodes-of-a-linked-list/description/) :lock:|Easy|To Do|To Do|
+|1496|[Path Crossing](https://leetcode.com/problemset/all/path-crossing/description/) |Easy|To Do|To Do|
+|1497|[Check If Array Pairs Are Divisible by k](https://leetcode.com/problemset/all/check-if-array-pairs-are-divisible-by-k/description/) |Medium|To Do|To Do|
+|1498|[Number of Subsequences That Satisfy the Given Sum Condition](https://leetcode.com/problemset/all/number-of-subsequences-that-satisfy-the-given-sum-condition/description/) |Medium|To Do|To Do|
+|1499|[Max Value of Equation](https://leetcode.com/problemset/all/max-value-of-equation/description/) |Hard|To Do|To Do|
 |1479|[Sales by Day of the Week](https://leetcode.com/problemset/all/sales-by-day-of-the-week/description/) :lock:|Hard|To Do|To Do|
 |1485|[Clone Binary Tree With Random Pointer](https://leetcode.com/problemset/all/clone-binary-tree-with-random-pointer/description/) :lock:|Medium|To Do|To Do|
 |1484|[Group Sold Products By The Date](https://leetcode.com/problemset/all/group-sold-products-by-the-date/description/) :lock:|Easy|To Do|To Do|
 |1490|[Clone N-ary Tree](https://leetcode.com/problemset/all/clone-n-ary-tree/description/) :lock:|Medium|To Do|To Do|
+|1495|[Friendly Movies Streamed Last Month](https://leetcode.com/problemset/all/friendly-movies-streamed-last-month/description/) :lock:|Easy|To Do|To Do|
