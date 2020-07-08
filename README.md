@@ -1,9 +1,9 @@
 # Keep thinking, keep alive
-Until 2020-06-29 22:38:27, I have solved **34** / **1499** problems. 
+Until 2020-07-08 18:33:33, I have solved **35** / **1505** problems. 
 
 Completion statistic: 
 1. JavaScript: 28 
-2. Python: 5
+2. Python: 6
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -25,7 +25,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |012|[Integer to Roman](https://leetcode.com/problemset/all/integer-to-roman/description/) |Medium|To Do|To Do|
 |013|[Roman to Integer](https://leetcode.com/problemset/all/roman-to-integer/description/) |Easy|To Do|To Do|
 |014|[Longest Common Prefix](https://leetcode.com/problemset/all/longest-common-prefix/description/) |Easy|To Do|To Do|
-|015|[3Sum](https://leetcode.com/problemset/all/3sum/description/) |Medium|To Do|To Do|
+|015|[3Sum](https://leetcode.com/problemset/all/3sum/description/) |Medium|To Do|[python](https://github.com/seal0112/leetcode/tree/master/leetcode-algorithms/015.%203Sum/3Sum.py)|
 |016|[3Sum Closest](https://leetcode.com/problemset/all/3sum-closest/description/) |Medium|To Do|To Do|
 |017|[Letter Combinations of a Phone Number](https://leetcode.com/problemset/all/letter-combinations-of-a-phone-number/description/) |Medium|To Do|To Do|
 |018|[4Sum](https://leetcode.com/problemset/all/4sum/description/) |Medium|To Do|To Do|
@@ -1508,5 +1508,11 @@ Note: :lock: means you need to buy a book from LeetCode
 |1479|[Sales by Day of the Week](https://leetcode.com/problemset/all/sales-by-day-of-the-week/description/) :lock:|Hard|To Do|To Do|
 |1485|[Clone Binary Tree With Random Pointer](https://leetcode.com/problemset/all/clone-binary-tree-with-random-pointer/description/) :lock:|Medium|To Do|To Do|
 |1484|[Group Sold Products By The Date](https://leetcode.com/problemset/all/group-sold-products-by-the-date/description/) :lock:|Easy|To Do|To Do|
+|1502|[Can Make Arithmetic Progression From Sequence](https://leetcode.com/problemset/all/can-make-arithmetic-progression-from-sequence/description/) |Easy|To Do|To Do|
+|1503|[Last Moment Before All Ants Fall Out of a Plank](https://leetcode.com/problemset/all/last-moment-before-all-ants-fall-out-of-a-plank/description/) |Medium|To Do|To Do|
+|1504|[Count Submatrices With All Ones](https://leetcode.com/problemset/all/count-submatrices-with-all-ones/description/) |Medium|To Do|To Do|
+|1505|[Minimum Possible Integer After at Most K Adjacent Swaps On Digits](https://leetcode.com/problemset/all/minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits/description/) |Hard|To Do|To Do|
 |1490|[Clone N-ary Tree](https://leetcode.com/problemset/all/clone-n-ary-tree/description/) :lock:|Medium|To Do|To Do|
 |1495|[Friendly Movies Streamed Last Month](https://leetcode.com/problemset/all/friendly-movies-streamed-last-month/description/) :lock:|Easy|To Do|To Do|
+|1500|[Design a File Sharing System](https://leetcode.com/problemset/all/design-a-file-sharing-system/description/) :lock:|Medium|To Do|To Do|
+|1501|[Countries You Can Safely Invest In](https://leetcode.com/problemset/all/countries-you-can-safely-invest-in/description/) :lock:|Medium|To Do|To Do|
