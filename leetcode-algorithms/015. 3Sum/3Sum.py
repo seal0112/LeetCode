@@ -6,7 +6,8 @@
      nums[i]為正數時, 跳出迴圈(因為nums[i]之後不會含有負數)
      然後每次回圈弄一個left跟right, left從i+1開始往後走, right從nums.length-1開始往前走
      如果三個值 nums[i], nums[left], nums[right]相加為0時, append到result
-     然後left+1, right-1, 並檢查nums[left]是不是跟nums[left-1]數字相同(避免重複的組合加入result)
+     然後left+1, 並檢查nums[left]是不是跟nums[left-1]數字相同(避免重複的組合加入result)
+        right-1, 並檢查nums[right]是不是跟nums[right-1]數字相同(避免重複的組合加入result)
      如果三個值相加小於零, 代表負太多, left要往正數移動變大
      如果三個值相加大於零, 代表正太多, right要往負數移動變小
 """

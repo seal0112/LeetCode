@@ -1,9 +1,9 @@
 # Keep thinking, keep alive
-Until 2020-07-08 18:33:33, I have solved **35** / **1505** problems. 
+Until 2020-07-14 17:28:28, I have solved **36** / **1506** problems. 
 
 Completion statistic: 
 1. JavaScript: 28 
-2. Python: 6
+2. Python: 7
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -144,7 +144,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |131|[Palindrome Partitioning](https://leetcode.com/problemset/all/palindrome-partitioning/description/) |Medium|To Do|To Do|
 |132|[Palindrome Partitioning II](https://leetcode.com/problemset/all/palindrome-partitioning-ii/description/) |Hard|To Do|To Do|
 |133|[Clone Graph](https://leetcode.com/problemset/all/clone-graph/description/) |Medium|To Do|To Do|
-|134|[Gas Station](https://leetcode.com/problemset/all/gas-station/description/) |Medium|To Do|To Do|
+|134|[Gas Station](https://leetcode.com/problemset/all/gas-station/description/) |Medium|To Do|[python](https://github.com/seal0112/leetcode/tree/master/leetcode-algorithms/1344.%20Angle%20Between%20Hands%20of%20a%20Clock/AngleBetweenHandsOfAClock.py)|
 |135|[Candy](https://leetcode.com/problemset/all/candy/description/) |Hard|To Do|To Do|
 |136|[Single Number](https://leetcode.com/problemset/all/single-number/description/) |Easy|To Do|To Do|
 |137|[Single Number II](https://leetcode.com/problemset/all/single-number-ii/description/) |Medium|To Do|[python](https://github.com/seal0112/leetcode/tree/master/leetcode-algorithms/137.%20Single%20Number%20II/SingleNumberII.py)|
@@ -1516,3 +1516,4 @@ Note: :lock: means you need to buy a book from LeetCode
 |1495|[Friendly Movies Streamed Last Month](https://leetcode.com/problemset/all/friendly-movies-streamed-last-month/description/) :lock:|Easy|To Do|To Do|
 |1500|[Design a File Sharing System](https://leetcode.com/problemset/all/design-a-file-sharing-system/description/) :lock:|Medium|To Do|To Do|
 |1501|[Countries You Can Safely Invest In](https://leetcode.com/problemset/all/countries-you-can-safely-invest-in/description/) :lock:|Medium|To Do|To Do|
+|1506|[Find Root of N-Ary Tree](https://leetcode.com/problemset/all/find-root-of-n-ary-tree/description/) :lock:|Medium|To Do|To Do|
