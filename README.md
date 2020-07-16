@@ -1,9 +1,9 @@
 # Keep thinking, keep alive
-Until 2020-07-14 17:28:28, I have solved **36** / **1506** problems. 
+Until 2020-07-16 14:09:17, I have solved **37** / **1515** problems. 
 
 Completion statistic: 
 1. JavaScript: 28 
-2. Python: 7
+2. Python: 8
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -161,7 +161,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |148|[Sort List](https://leetcode.com/problemset/all/sort-list/description/) |Medium|To Do|To Do|
 |149|[Max Points on a Line](https://leetcode.com/problemset/all/max-points-on-a-line/description/) |Hard|To Do|To Do|
 |150|[Evaluate Reverse Polish Notation](https://leetcode.com/problemset/all/evaluate-reverse-polish-notation/description/) |Medium|To Do|To Do|
-|151|[Reverse Words in a String](https://leetcode.com/problemset/all/reverse-words-in-a-string/description/) |Medium|To Do|To Do|
+|151|[Reverse Words in a String](https://leetcode.com/problemset/all/reverse-words-in-a-string/description/) |Medium|To Do|[python](https://github.com/seal0112/leetcode/tree/master/leetcode-algorithms/151.%20Reverse%20Words%20in%20a%20String/ReverseWordsInAString.py)|
 |152|[Maximum Product Subarray](https://leetcode.com/problemset/all/maximum-product-subarray/description/) |Medium|To Do|To Do|
 |153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problemset/all/find-minimum-in-rotated-sorted-array/description/) |Medium|To Do|To Do|
 |154|[Find Minimum in Rotated Sorted Array II](https://leetcode.com/problemset/all/find-minimum-in-rotated-sorted-array-ii/description/) |Hard|To Do|To Do|
@@ -1238,6 +1238,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |1176|[Diet Plan Performance](https://leetcode.com/problemset/all/diet-plan-performance/description/) :lock:|Easy|To Do|To Do|
 |1177|[Can Make Palindrome from Substring](https://leetcode.com/problemset/all/can-make-palindrome-from-substring/description/) |Medium|To Do|To Do|
 |1178|[Number of Valid Words for Each Puzzle](https://leetcode.com/problemset/all/number-of-valid-words-for-each-puzzle/description/) |Hard|To Do|To Do|
+|1507|[Reformat Date](https://leetcode.com/problemset/all/reformat-date/description/) |Easy|To Do|To Do|
 |1390|[Four Divisors](https://leetcode.com/problemset/all/four-divisors/description/) |Medium|To Do|To Do|
 |1382|[Balance a Binary Search Tree](https://leetcode.com/problemset/all/balance-a-binary-search-tree/description/) |Medium|To Do|To Do|
 |1425|[Constrained Subsequence Sum](https://leetcode.com/problemset/all/constrained-subsequence-sum/description/) |Hard|To Do|To Do|
@@ -1265,6 +1266,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |1209|[Remove All Adjacent Duplicates in String II](https://leetcode.com/problemset/all/remove-all-adjacent-duplicates-in-string-ii/description/) |Medium|To Do|To Do|
 |1208|[Get Equal Substrings Within Budget](https://leetcode.com/problemset/all/get-equal-substrings-within-budget/description/) |Medium|To Do|To Do|
 |1210|[Minimum Moves to Reach Target with Rotations](https://leetcode.com/problemset/all/minimum-moves-to-reach-target-with-rotations/description/) |Hard|To Do|To Do|
+|1514|[Path with Maximum Probability](https://leetcode.com/problemset/all/path-with-maximum-probability/description/) |Medium|To Do|To Do|
 |1204|[Last Person to Fit in the Elevator](https://leetcode.com/problemset/all/last-person-to-fit-in-the-elevator/description/) :lock:|Medium|To Do|To Do|
 |1205|[Monthly Transactions II](https://leetcode.com/problemset/all/monthly-transactions-ii/description/) :lock:|Medium|To Do|To Do|
 |1217|[Play with Chips](https://leetcode.com/problemset/all/play-with-chips/description/) |Easy|To Do|To Do|
@@ -1500,6 +1502,9 @@ Note: :lock: means you need to buy a book from LeetCode
 |1487|[Making File Names Unique](https://leetcode.com/problemset/all/making-file-names-unique/description/) |Medium|To Do|To Do|
 |1488|[Avoid Flood in The City](https://leetcode.com/problemset/all/avoid-flood-in-the-city/description/) |Medium|To Do|To Do|
 |1489|[Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree](https://leetcode.com/problemset/all/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/description/) |Hard|To Do|To Do|
+|1508|[Range Sum of Sorted Subarray Sums](https://leetcode.com/problemset/all/range-sum-of-sorted-subarray-sums/description/) |Medium|To Do|To Do|
+|1509|[Minimum Difference Between Largest and Smallest Value in Three Moves](https://leetcode.com/problemset/all/minimum-difference-between-largest-and-smallest-value-in-three-moves/description/) |Medium|To Do|To Do|
+|1510|[Stone Game IV](https://leetcode.com/problemset/all/stone-game-iv/description/) |Hard|To Do|To Do|
 |1474|[Delete N Nodes After M Nodes of a Linked List](https://leetcode.com/problemset/all/delete-n-nodes-after-m-nodes-of-a-linked-list/description/) :lock:|Easy|To Do|To Do|
 |1496|[Path Crossing](https://leetcode.com/problemset/all/path-crossing/description/) |Easy|To Do|To Do|
 |1497|[Check If Array Pairs Are Divisible by k](https://leetcode.com/problemset/all/check-if-array-pairs-are-divisible-by-k/description/) |Medium|To Do|To Do|
@@ -1513,7 +1518,11 @@ Note: :lock: means you need to buy a book from LeetCode
 |1504|[Count Submatrices With All Ones](https://leetcode.com/problemset/all/count-submatrices-with-all-ones/description/) |Medium|To Do|To Do|
 |1505|[Minimum Possible Integer After at Most K Adjacent Swaps On Digits](https://leetcode.com/problemset/all/minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits/description/) |Hard|To Do|To Do|
 |1490|[Clone N-ary Tree](https://leetcode.com/problemset/all/clone-n-ary-tree/description/) :lock:|Medium|To Do|To Do|
+|1512|[Number of Good Pairs](https://leetcode.com/problemset/all/number-of-good-pairs/description/) |Easy|To Do|To Do|
+|1513|[Number of Substrings With Only 1s](https://leetcode.com/problemset/all/number-of-substrings-with-only-1s/description/) |Medium|To Do|To Do|
+|1515|[Best Position for a Service Centre](https://leetcode.com/problemset/all/best-position-for-a-service-centre/description/) |Hard|To Do|To Do|
 |1495|[Friendly Movies Streamed Last Month](https://leetcode.com/problemset/all/friendly-movies-streamed-last-month/description/) :lock:|Easy|To Do|To Do|
 |1500|[Design a File Sharing System](https://leetcode.com/problemset/all/design-a-file-sharing-system/description/) :lock:|Medium|To Do|To Do|
 |1501|[Countries You Can Safely Invest In](https://leetcode.com/problemset/all/countries-you-can-safely-invest-in/description/) :lock:|Medium|To Do|To Do|
 |1506|[Find Root of N-Ary Tree](https://leetcode.com/problemset/all/find-root-of-n-ary-tree/description/) :lock:|Medium|To Do|To Do|
+|1511|[Customer Order Frequency](https://leetcode.com/problemset/all/customer-order-frequency/description/) :lock:|Easy|To Do|To Do|
