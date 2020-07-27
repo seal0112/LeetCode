@@ -1,9 +1,9 @@
 # Keep thinking, keep alive
-Until 2020-07-16 14:09:17, I have solved **37** / **1515** problems. 
+Until 2020-07-27 10:42:35, I have solved **38** / **1522** problems. 
 
 Completion statistic: 
 1. JavaScript: 28 
-2. Python: 8
+2. Python: 9
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -70,7 +70,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |057|[Insert Interval](https://leetcode.com/problemset/all/insert-interval/description/) |Hard|To Do|To Do|
 |058|[Length of Last Word](https://leetcode.com/problemset/all/length-of-last-word/description/) |Easy|To Do|To Do|
 |059|[Spiral Matrix II](https://leetcode.com/problemset/all/spiral-matrix-ii/description/) |Medium|To Do|To Do|
-|060|[Permutation Sequence](https://leetcode.com/problemset/all/permutation-sequence/description/) |Medium|[JavaScript](https://github.com/seal0112/leetcode/tree/master/leetcode-algorithms/060.%20Permutation%20Sequence/PermutationSequence.js)|To Do|
+|060|[Permutation Sequence](https://leetcode.com/problemset/all/permutation-sequence/description/) |Hard|[JavaScript](https://github.com/seal0112/leetcode/tree/master/leetcode-algorithms/060.%20Permutation%20Sequence/PermutationSequence.js)|To Do|
 |061|[Rotate List](https://leetcode.com/problemset/all/rotate-list/description/) |Medium|[JavaScript](https://github.com/seal0112/leetcode/tree/master/leetcode-algorithms/061.%20Rotate%20List/RotateList.js)|To Do|
 |062|[Unique Paths](https://leetcode.com/problemset/all/unique-paths/description/) |Medium|[JavaScript](https://github.com/seal0112/leetcode/tree/master/leetcode-algorithms/062.%20Unique%20Paths/Unique Paths.js)|[python](https://github.com/seal0112/leetcode/tree/master/leetcode-algorithms/062.%20Unique%20Paths/UniquePaths.py)|
 |063|[Unique Paths II](https://leetcode.com/problemset/all/unique-paths-ii/description/) |Medium|To Do|To Do|
@@ -116,7 +116,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |103|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problemset/all/binary-tree-zigzag-level-order-traversal/description/) |Medium|[JavaScript](https://github.com/seal0112/leetcode/tree/master/leetcode-algorithms/1035.%20Uncrossed%20Lines/UncrossedLines.js)|To Do|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problemset/all/maximum-depth-of-binary-tree/description/) |Easy|To Do|To Do|
 |105|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problemset/all/construct-binary-tree-from-preorder-and-inorder-traversal/description/) |Medium|To Do|To Do|
-|106|[Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problemset/all/construct-binary-tree-from-inorder-and-postorder-traversal/description/) |Medium|To Do|To Do|
+|106|[Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problemset/all/construct-binary-tree-from-inorder-and-postorder-traversal/description/) |Medium|To Do|[python](https://github.com/seal0112/leetcode/tree/master/leetcode-algorithms/106.%20Construct%20Binary%20Tree%20from%20Inorder%20and%20Postorder%20Traversal/ConstructBinaryTreeFromInorderAndPostorderTraversal.py)|
 |107|[Binary Tree Level Order Traversal II](https://leetcode.com/problemset/all/binary-tree-level-order-traversal-ii/description/) |Easy|To Do|To Do|
 |108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problemset/all/convert-sorted-array-to-binary-search-tree/description/) |Easy|To Do|To Do|
 |109|[Convert Sorted List to Binary Search Tree](https://leetcode.com/problemset/all/convert-sorted-list-to-binary-search-tree/description/) |Medium|To Do|To Do|
@@ -381,7 +381,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |368|[Largest Divisible Subset](https://leetcode.com/problemset/all/largest-divisible-subset/description/) |Medium|To Do|To Do|
 |369|[Plus One Linked List](https://leetcode.com/problemset/all/plus-one-linked-list/description/) :lock:|Medium|To Do|To Do|
 |370|[Range Addition](https://leetcode.com/problemset/all/range-addition/description/) :lock:|Medium|To Do|To Do|
-|371|[Sum of Two Integers](https://leetcode.com/problemset/all/sum-of-two-integers/description/) |Easy|To Do|To Do|
+|371|[Sum of Two Integers](https://leetcode.com/problemset/all/sum-of-two-integers/description/) |Medium|To Do|To Do|
 |372|[Super Pow](https://leetcode.com/problemset/all/super-pow/description/) |Medium|To Do|To Do|
 |373|[Find K Pairs with Smallest Sums](https://leetcode.com/problemset/all/find-k-pairs-with-smallest-sums/description/) |Medium|To Do|To Do|
 |374|[Guess Number Higher or Lower](https://leetcode.com/problemset/all/guess-number-higher-or-lower/description/) |Easy|To Do|To Do|
@@ -729,7 +729,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |748|[Shortest Completing Word](https://leetcode.com/problemset/all/shortest-completing-word/description/) |Easy|To Do|To Do|
 |749|[Contain Virus](https://leetcode.com/problemset/all/contain-virus/description/) |Hard|To Do|To Do|
 |750|[Number Of Corner Rectangles](https://leetcode.com/problemset/all/number-of-corner-rectangles/description/) :lock:|Medium|To Do|To Do|
-|751|[IP to CIDR](https://leetcode.com/problemset/all/ip-to-cidr/description/) :lock:|Easy|To Do|To Do|
+|751|[IP to CIDR](https://leetcode.com/problemset/all/ip-to-cidr/description/) :lock:|Medium|To Do|To Do|
 |752|[Open the Lock](https://leetcode.com/problemset/all/open-the-lock/description/) |Medium|To Do|To Do|
 |753|[Cracking the Safe](https://leetcode.com/problemset/all/cracking-the-safe/description/) |Hard|To Do|To Do|
 |754|[Reach a Number](https://leetcode.com/problemset/all/reach-a-number/description/) |Medium|To Do|To Do|
@@ -1524,5 +1524,12 @@ Note: :lock: means you need to buy a book from LeetCode
 |1495|[Friendly Movies Streamed Last Month](https://leetcode.com/problemset/all/friendly-movies-streamed-last-month/description/) :lock:|Easy|To Do|To Do|
 |1500|[Design a File Sharing System](https://leetcode.com/problemset/all/design-a-file-sharing-system/description/) :lock:|Medium|To Do|To Do|
 |1501|[Countries You Can Safely Invest In](https://leetcode.com/problemset/all/countries-you-can-safely-invest-in/description/) :lock:|Medium|To Do|To Do|
+|1518|[Water Bottles](https://leetcode.com/problemset/all/water-bottles/description/) |Easy|To Do|To Do|
+|1519|[Number of Nodes in the Sub-Tree With the Same Label](https://leetcode.com/problemset/all/number-of-nodes-in-the-sub-tree-with-the-same-label/description/) |Medium|To Do|To Do|
+|1520|[Maximum Number of Non-Overlapping Substrings](https://leetcode.com/problemset/all/maximum-number-of-non-overlapping-substrings/description/) |Medium|To Do|To Do|
+|1521|[Find a Value of a Mysterious Function Closest to Target](https://leetcode.com/problemset/all/find-a-value-of-a-mysterious-function-closest-to-target/description/) |Hard|To Do|To Do|
 |1506|[Find Root of N-Ary Tree](https://leetcode.com/problemset/all/find-root-of-n-ary-tree/description/) :lock:|Medium|To Do|To Do|
 |1511|[Customer Order Frequency](https://leetcode.com/problemset/all/customer-order-frequency/description/) :lock:|Easy|To Do|To Do|
+|1516|[Move Sub-Tree of N-Ary Tree](https://leetcode.com/problemset/all/move-sub-tree-of-n-ary-tree/description/) :lock:|Hard|To Do|To Do|
+|1517|[Find Users With Valid E-Mails](https://leetcode.com/problemset/all/find-users-with-valid-e-mails/description/) :lock:|Easy|To Do|To Do|
+|1522|[Diameter of N-Ary Tree](https://leetcode.com/problemset/all/diameter-of-n-ary-tree/description/) :lock:|Medium|To Do|To Do|
