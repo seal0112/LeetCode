@@ -17,7 +17,7 @@ class Config:
     github_leetcode_url =\
         'https://github.com/seal0112/leetcode/tree/master/leetcode-algorithms'
     leetcode_url =\
-        'https://leetcode.com/problemset/all/'
+        'https://leetcode.com/problems/'
 
 
 class Question:
