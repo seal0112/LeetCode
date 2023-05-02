@@ -147,10 +147,6 @@ class TableInform:
             name = question['stat']['question__title'].replace('/', ' ')
             url = question['stat']['question__title_slug']
             id_ = str(question['stat']['frontend_question_id'])
-            if int(id_) < 10:
-                id_ = '00' + id_
-            elif int(id_) < 100:
-                id_ = '0' + id_
             lock = question['paid_only']
             if lock:
                 self.locked += 1
@@ -195,19 +191,20 @@ class TableInform:
                     if len(files) != 0:
                         complete_info.complete_num += 1
                     for item in files:
+                        question_id = folder.split('.')[0]
                         if item.endswith('.py'):
                             # 这个部分可以写成函数，不过我好像设计有点问题，不太好重构，请读者自己思考
                             complete_info.solved['python'] += 1
                             folder_url = folder.replace(' ', "%20")
                             folder_url = os.path.join(folder_url, item)
                             folder_url = os.path.join(Config.github_leetcode_url, folder_url)
-                            self.table_item[folder[:3]].python = '[python]({})'.format(folder_url)
+                            self.table_item[question_id].python = '[python]({})'.format(folder_url)
                         elif item.endswith('.js'):
                             complete_info.solved['javascript'] += 1
                             folder_url = folder.replace(' ', "%20")
                             folder_url = os.path.join(folder_url, item)
                             folder_url = os.path.join(Config.github_leetcode_url, folder_url)
-                            self.table_item[folder[:3]].javascript = '[JavaScript]({})'.format(folder_url)
+                            self.table_item[question_id].javascript = '[JavaScript]({})'.format(folder_url)
         # 这里使用到的Readme这个类就是写文件，相对不是特别重要，没什么好讲的
         readme = Readme(complete_info.total, complete_info.complete_num, complete_info.solved)
         readme.create_leetcode_readme([self.table, self.table_item])
@@ -243,5 +240,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-
-
