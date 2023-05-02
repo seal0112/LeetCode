@@ -1,9 +1,9 @@
 # Keep thinking, keep alive
-Until 2023-05-02 15:28:52, I have solved **41** / **2663** problems. 
+Until 2023-05-02 15:44:13, I have solved **42** / **2663** problems. 
 
 Completion statistic: 
 1. JavaScript: 28 
-2. Python: 12
+2. Python: 13
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -273,7 +273,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |260|[Single Number III](https://leetcode.com/problems/single-number-iii/description/) |Medium|To Do|To Do|
 |261|[Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/description/) :lock:|Medium|To Do|To Do|
 |262|[Trips and Users](https://leetcode.com/problems/trips-and-users/description/) |Hard|To Do|To Do|
-|263|[Ugly Number](https://leetcode.com/problems/ugly-number/description/) |Easy|To Do|To Do|
+|263|[Ugly Number](https://leetcode.com/problems/ugly-number/description/) |Easy|To Do|[python](https://github.com/seal0112/leetcode/tree/master/leetcode-algorithms/263.%20Ugly%20Number/UglyNumber.py)|
 |264|[Ugly Number II](https://leetcode.com/problems/ugly-number-ii/description/) |Medium|To Do|To Do|
 |265|[Paint House II](https://leetcode.com/problems/paint-house-ii/description/) :lock:|Hard|To Do|To Do|
 |266|[Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/description/) :lock:|Easy|To Do|To Do|
