@@ -1,5 +1,5 @@
 # Keep thinking, keep alive
-Until 2023-05-02 15:22:12, I have solved **40** / **2663** problems. 
+Until 2023-05-02 15:25:34, I have solved **40** / **2663** problems. 
 
 Completion statistic: 
 1. JavaScript: 28 
@@ -72,7 +72,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |59|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/description/) |Medium|To Do|To Do|
 |60|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence/description/) |Hard|[JavaScript](https://github.com/seal0112/leetcode/tree/master/leetcode-algorithms/60.%20Permutation%20Sequence/PermutationSequence.js)|To Do|
 |61|[Rotate List](https://leetcode.com/problems/rotate-list/description/) |Medium|[JavaScript](https://github.com/seal0112/leetcode/tree/master/leetcode-algorithms/61.%20Rotate%20List/RotateList.js)|To Do|
-|62|[Unique Paths](https://leetcode.com/problems/unique-paths/description/) |Medium|[JavaScript](https://github.com/seal0112/leetcode/tree/master/leetcode-algorithms/62.%20Unique%20Paths/Unique Paths.js)|[python](https://github.com/seal0112/leetcode/tree/master/leetcode-algorithms/62.%20Unique%20Paths/UniquePaths.py)|
+|62|[Unique Paths](https://leetcode.com/problems/unique-paths/description/) |Medium|[JavaScript](https://github.com/seal0112/leetcode/tree/master/leetcode-algorithms/62.%20Unique%20Paths/UniquePaths.js)|[python](https://github.com/seal0112/leetcode/tree/master/leetcode-algorithms/62.%20Unique%20Paths/UniquePaths.py)|
 |63|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/description/) |Medium|To Do|To Do|
 |64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/) |Medium|To Do|To Do|
 |65|[Valid Number](https://leetcode.com/problems/valid-number/description/) |Hard|To Do|To Do|
