@@ -1,9 +1,9 @@
 # Keep thinking, keep alive
-Until 2023-05-02 15:12:41, I have solved **39** / **2663** problems. 
+Until 2023-05-02 15:22:12, I have solved **40** / **2663** problems. 
 
 Completion statistic: 
 1. JavaScript: 28 
-2. Python: 10
+2. Python: 11
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -13,7 +13,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |:---:|:---:|:---:|:---:|:---:|
 |1|[Two Sum](https://leetcode.com/problems/two-sum/description/) |Easy|[JavaScript](https://github.com/seal0112/leetcode/tree/master/leetcode-algorithms/1.%20Two%20Sum/twoSum.js)|To Do|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) |Medium|To Do|[python](https://github.com/seal0112/leetcode/tree/master/leetcode-algorithms/2.%20Add%20Two%20Numbers/addTwoNumbers.py)|
-|3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) |Medium|To Do|To Do|
+|3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) |Medium|To Do|[python](https://github.com/seal0112/leetcode/tree/master/leetcode-algorithms/3.%20Longest%20Substring%20Without%20Repeating%20Characters/lengthOfLongestSubstring.py)|
 |4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/) |Hard|To Do|To Do|
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/) |Medium|To Do|To Do|
 |6|[Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/description/) |Medium|To Do|To Do|
