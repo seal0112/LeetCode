@@ -1,9 +1,9 @@
 # Keep thinking, keep alive
-Until 2023-05-02 15:44:13, I have solved **42** / **2663** problems. 
+Until 2023-05-03 00:28:01, I have solved **43** / **2663** problems. 
 
 Completion statistic: 
 1. JavaScript: 28 
-2. Python: 13
+2. Python: 14
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -1084,7 +1084,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |1160|[Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/description/) |Easy|To Do|To Do|
 |1040|[Moving Stones Until Consecutive II](https://leetcode.com/problems/moving-stones-until-consecutive-ii/description/) |Medium|To Do|To Do|
 |1038|[Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/description/) |Medium|To Do|To Do|
-|1037|[Valid Boomerang](https://leetcode.com/problems/valid-boomerang/description/) |Easy|To Do|To Do|
+|1037|[Valid Boomerang](https://leetcode.com/problems/valid-boomerang/description/) |Easy|To Do|[python](https://github.com/seal0112/leetcode/tree/master/leetcode-algorithms/1037.%20Valid%20Boomerang/validBoomerang.py)|
 |1161|[Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/description/) |Medium|To Do|To Do|
 |1162|[As Far from Land as Possible](https://leetcode.com/problems/as-far-from-land-as-possible/description/) |Medium|To Do|To Do|
 |1121|[Divide Array Into Increasing Sequences](https://leetcode.com/problems/divide-array-into-increasing-sequences/description/) :lock:|Hard|To Do|To Do|
