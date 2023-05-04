@@ -1,9 +1,9 @@
 # Keep thinking, keep alive
-Until 2023-05-03 00:28:01, I have solved **43** / **2663** problems. 
+Until 2023-05-04 22:42:17, I have solved **44** / **2667** problems. 
 
 Completion statistic: 
 1. JavaScript: 28 
-2. Python: 14
+2. Python: 15
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -155,7 +155,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/description/) |Medium|To Do|To Do|
 |143|[Reorder List](https://leetcode.com/problems/reorder-list/description/) |Medium|To Do|To Do|
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/description/) |Easy|To Do|To Do|
-|145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/description/) |Easy|To Do|To Do|
+|145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/description/) |Easy|To Do|[python](https://github.com/seal0112/leetcode/tree/master/leetcode-algorithms/145.%20Binary%20Tree%20Postorder%20Traversal/binaryTreePostorderTraversal.py)|
 |146|[LRU Cache](https://leetcode.com/problems/lru-cache/description/) |Medium|To Do|To Do|
 |147|[Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/description/) |Medium|To Do|To Do|
 |148|[Sort List](https://leetcode.com/problems/sort-list/description/) |Medium|To Do|To Do|
@@ -2673,4 +2673,8 @@ Note: :lock: means you need to buy a book from LeetCode
 |2648|[Generate Fibonacci Sequence](https://leetcode.com/problems/generate-fibonacci-sequence/description/) |Easy|To Do|To Do|
 |2649|[Nested Array Generator](https://leetcode.com/problems/nested-array-generator/description/) |Medium|To Do|To Do|
 |2650|[Design Cancellable Function](https://leetcode.com/problems/design-cancellable-function/description/) |Hard|To Do|To Do|
+|2665|[Counter II](https://leetcode.com/problems/counter-ii/description/) |Easy|To Do|To Do|
+|2666|[Allow One Function Call](https://leetcode.com/problems/allow-one-function-call/description/) |Easy|To Do|To Do|
+|2667|[Create Hello World Function](https://leetcode.com/problems/create-hello-world-function/description/) |Easy|To Do|To Do|
 |2655|[Find Maximal Uncovered Ranges](https://leetcode.com/problems/find-maximal-uncovered-ranges/description/) :lock:|Medium|To Do|To Do|
+|2664|[The Knight’s Tour](https://leetcode.com/problems/the-knights-tour/description/) :lock:|Medium|To Do|To Do|
