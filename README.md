@@ -1,9 +1,9 @@
 # Keep thinking, keep alive
-Until 2023-05-04 22:42:17, I have solved **44** / **2667** problems. 
+Until 2023-05-14 18:52:23, I have solved **45** / **2688** problems. 
 
 Completion statistic: 
 1. JavaScript: 28 
-2. Python: 15
+2. Python: 16
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -355,7 +355,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |342|[Power of Four](https://leetcode.com/problems/power-of-four/description/) |Easy|To Do|To Do|
 |343|[Integer Break](https://leetcode.com/problems/integer-break/description/) |Medium|To Do|To Do|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/description/) |Easy|To Do|To Do|
-|345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/description/) |Easy|To Do|To Do|
+|345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/description/) |Easy|To Do|[python](https://github.com/seal0112/leetcode/tree/master/leetcode-algorithms/345.%20Reverse%20Vowels%20of%20a%20String/reverseVowelsOfAString.py)|
 |346|[Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/description/) :lock:|Easy|To Do|To Do|
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/) |Medium|To Do|To Do|
 |348|[Design Tic-Tac-Toe](https://leetcode.com/problems/design-tic-tac-toe/description/) :lock:|Medium|To Do|To Do|
@@ -2638,6 +2638,9 @@ Note: :lock: means you need to buy a book from LeetCode
 |2610|[Convert an Array Into a 2D Array With Conditions](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/description/) |Medium|To Do|To Do|
 |2611|[Mice and Cheese](https://leetcode.com/problems/mice-and-cheese/description/) |Medium|To Do|To Do|
 |2612|[Minimum Reverse Operations](https://leetcode.com/problems/minimum-reverse-operations/description/) |Hard|To Do|To Do|
+|2678|[Number of Senior Citizens](https://leetcode.com/problems/number-of-senior-citizens/description/) |Easy|To Do|To Do|
+|2679|[Sum in a Matrix](https://leetcode.com/problems/sum-in-a-matrix/description/) |Medium|To Do|To Do|
+|2680|[Maximum OR](https://leetcode.com/problems/maximum-or/description/) |Medium|To Do|To Do|
 |2623|[Memoize](https://leetcode.com/problems/memoize/description/) |Medium|To Do|To Do|
 |2620|[Counter](https://leetcode.com/problems/counter/description/) |Easy|To Do|To Do|
 |2621|[Sleep](https://leetcode.com/problems/sleep/description/) |Easy|To Do|To Do|
@@ -2670,11 +2673,29 @@ Note: :lock: means you need to buy a book from LeetCode
 |2659|[Make Array Empty](https://leetcode.com/problems/make-array-empty/description/) |Hard|To Do|To Do|
 |2657|[Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/description/) |Medium|To Do|To Do|
 |2656|[Maximum Sum With Exactly K Elements ](https://leetcode.com/problems/maximum-sum-with-exactly-k-elements/description/) |Easy|To Do|To Do|
+|2675|[Array of Objects to Matrix](https://leetcode.com/problems/array-of-objects-to-matrix/description/) |Medium|To Do|To Do|
+|2676|[Throttle](https://leetcode.com/problems/throttle/description/) |Medium|To Do|To Do|
 |2648|[Generate Fibonacci Sequence](https://leetcode.com/problems/generate-fibonacci-sequence/description/) |Easy|To Do|To Do|
+|2670|[Find the Distinct Difference Array](https://leetcode.com/problems/find-the-distinct-difference-array/description/) |Easy|To Do|To Do|
+|2671|[Frequency Tracker](https://leetcode.com/problems/frequency-tracker/description/) |Medium|To Do|To Do|
+|2672|[Number of Adjacent Elements With the Same Color](https://leetcode.com/problems/number-of-adjacent-elements-with-the-same-color/description/) |Medium|To Do|To Do|
+|2673|[Make Costs of Paths Equal in a Binary Tree](https://leetcode.com/problems/make-costs-of-paths-equal-in-a-binary-tree/description/) |Medium|To Do|To Do|
 |2649|[Nested Array Generator](https://leetcode.com/problems/nested-array-generator/description/) |Medium|To Do|To Do|
+|2681|[Power of Heroes](https://leetcode.com/problems/power-of-heroes/description/) |Hard|To Do|To Do|
 |2650|[Design Cancellable Function](https://leetcode.com/problems/design-cancellable-function/description/) |Hard|To Do|To Do|
 |2665|[Counter II](https://leetcode.com/problems/counter-ii/description/) |Easy|To Do|To Do|
+|2682|[Find the Losers of the Circular Game](https://leetcode.com/problems/find-the-losers-of-the-circular-game/description/) |Easy|To Do|To Do|
+|2683|[Neighboring Bitwise XOR](https://leetcode.com/problems/neighboring-bitwise-xor/description/) |Medium|To Do|To Do|
+|2685|[Count the Number of Complete Components](https://leetcode.com/problems/count-the-number-of-complete-components/description/) |Medium|To Do|To Do|
+|2684|[Maximum Number of Moves in a Grid](https://leetcode.com/problems/maximum-number-of-moves-in-a-grid/description/) |Medium|To Do|To Do|
 |2666|[Allow One Function Call](https://leetcode.com/problems/allow-one-function-call/description/) |Easy|To Do|To Do|
+|2677|[Chunk Array](https://leetcode.com/problems/chunk-array/description/) |Easy|To Do|To Do|
 |2667|[Create Hello World Function](https://leetcode.com/problems/create-hello-world-function/description/) |Easy|To Do|To Do|
 |2655|[Find Maximal Uncovered Ranges](https://leetcode.com/problems/find-maximal-uncovered-ranges/description/) :lock:|Medium|To Do|To Do|
 |2664|[The Knight’s Tour](https://leetcode.com/problems/the-knights-tour/description/) :lock:|Medium|To Do|To Do|
+|2668|[Find Latest Salaries](https://leetcode.com/problems/find-latest-salaries/description/) :lock:|Easy|To Do|To Do|
+|2669|[Count Artist Occurrences On Spotify Ranking List](https://leetcode.com/problems/count-artist-occurrences-on-spotify-ranking-list/description/) :lock:|Easy|To Do|To Do|
+|2674|[Split a Circular Linked List](https://leetcode.com/problems/split-a-circular-linked-list/description/) :lock:|Medium|To Do|To Do|
+|2686|[Immediate Food Delivery III](https://leetcode.com/problems/immediate-food-delivery-iii/description/) :lock:|Medium|To Do|To Do|
+|2687|[Bikes Last Time Used ](https://leetcode.com/problems/bikes-last-time-used/description/) :lock:|Easy|To Do|To Do|
+|2688|[Find Active Users](https://leetcode.com/problems/find-active-users/description/) :lock:|Medium|To Do|To Do|
