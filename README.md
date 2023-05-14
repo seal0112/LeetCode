@@ -1,9 +1,9 @@
 # Keep thinking, keep alive
-Until 2023-05-14 18:52:23, I have solved **45** / **2688** problems. 
+Until 2023-05-14 23:45:33, I have solved **46** / **2688** problems. 
 
 Completion statistic: 
 1. JavaScript: 28 
-2. Python: 16
+2. Python: 17
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -242,7 +242,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |229|[Majority Element II](https://leetcode.com/problems/majority-element-ii/description/) |Medium|To Do|To Do|
 |230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/) |Medium|To Do|To Do|
 |231|[Power of Two](https://leetcode.com/problems/power-of-two/description/) |Easy|[JavaScript](https://github.com/seal0112/leetcode/tree/master/leetcode-algorithms/231.%20Power%20of%20Two/PowerOfTwo.js)|To Do|
-|232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/description/) |Easy|To Do|To Do|
+|232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/description/) |Easy|To Do|[python](https://github.com/seal0112/leetcode/tree/master/leetcode-algorithms/232.%20Implement%20Queue%20using%20Stacks/implementQueueUsingStacks.py)|
 |233|[Number of Digit One](https://leetcode.com/problems/number-of-digit-one/description/) |Hard|To Do|To Do|
 |234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/) |Easy|To Do|To Do|
 |235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/) |Medium|To Do|To Do|
